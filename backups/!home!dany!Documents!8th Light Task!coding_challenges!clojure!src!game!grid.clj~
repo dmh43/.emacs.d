@@ -1,0 +1,52 @@
+(ns game.grid)
+
+(def directions '(:up :down :left :right :ul :ur :dl :dr))
+
+(defmulti step
+  "Find the index in the direction given from the item at index from-index. else nil"
+  
+  (fn [from-index in-direction] in-direction))
+
+(defmethod step :up
+  [from-index in-direction]
+  (when from-index
+    (when (>= from-index 3)
+      (- from-index 3))))
+
+(defmethod step :down
+  [from-index in-direction]
+  (when from-index
+    (when (<= from-index 5)
+      (+ from-index 3))))
+
+(defmethod step :left
+  [from-index in-direction]
+  (when from-index
+    (when (not= 0 (mod from-index 3))
+      (dec from-index))))
+
+(defmethod step :right
+  [from-index in-direction]
+  (when from-index
+    (when (not= 0 (mod (inc from-index) 3))
+      (inc from-index))))
+
+(defmethod step :ul
+  [from-index in-direction]
+  (step (step from-index :up) :left))
+
+(defmethod step :ur
+  [from-index in-direction]
+  (step (step from-index :up) :right))
+
+(defmethod step :dl
+  [from-index in-direction]
+  (step (step from-index :down) :left))
+
+(defmethod step :dr
+  [from-index in-direction]
+  (step (step from-index :down) :right))
+
+(defn n-steps
+  [from-index in-direction n-times]
+  (nth (iterate #(step % in-direction) from-index) n-times))

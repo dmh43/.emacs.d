@@ -1,0 +1,43 @@
+(ns word-search.core)
+
+(defn cons-trie
+  [trie val]
+  (let [parted-data (map #(keyword (str %)) (seq val))]
+    (assoc-in trie
+              parted-data
+              (merge
+               (get-in trie parted-data)
+               {:end-val true}))))
+
+(defn in-trie?
+  [trie val]
+  (:end-val (get-in trie (map #(keyword (str %)) (seq val))) false))
+
+(defn to-trie
+  [coll]
+  (reduce cons-trie {} coll))
+
+(defn get-problem-input
+  [file-path]
+  (let [file (slurp file-path)
+        lines (clojure.string/split file #"(\r\n|\n)")
+        N (Integer/parseInt (str (first (first lines))))
+        M (Integer/parseInt (str (nth (first lines) 2)))
+        letter-matrix (subvec lines 1 (+ 1 N))
+        wrap (= "WRAP" (get lines (+ 1 N)))
+        P (Integer/parseInt (get lines (+ 2 N)))
+        words (take-last P lines)]
+    {:N N :M M :letter-matrix letter-matrix :wrap wrap :P P :words words}))
+
+(deftype my-set
+    [val]
+  clojure.lang.IPersistentSet
+  (cons [this item]
+    (cons item (.-val this)))
+  (empty [this]
+    (empty? (.-val this))))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))

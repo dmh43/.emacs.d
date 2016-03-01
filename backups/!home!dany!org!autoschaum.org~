@@ -1,0 +1,5 @@
+* DONE Create requirements.txt with my version of schemdraw
+  CLOSED: [2016-02-05 Fri 00:20]
+* DONE Cleanup into sub packages with tests for each
+  CLOSED: [2016-02-27 Sat 16:06]
+* TODO Add tests for identify_currents and voltage [[file:~/Documents/AutoSchaum/AutoSchaum/tests/test_solver_unittest.py]]

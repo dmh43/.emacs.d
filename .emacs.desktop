@@ -1,0 +1,492 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Feb 29 22:33:14 2016
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22229 14250 200753 617000) (desktop . "206") "dany@debian.dmh" nil nil ((((font-backend xft x) (font . "-unknown-Droid Sans Mono-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#2a2a2a") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 11) (scroll-bar-foreground) (scroll-bar-background . "grey75") (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (wait-for-wm . t) (fullscreen . maximized) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (sticky) (environment) (powerline-cache . "Unprintable entity") (frameset--id . "DA08-B59A-5B8C-1A03") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 57) (width . 225) (left . 0) (top . 0)) ((min-height . 12) (min-width . 20) (min-height-ignore . 6) (min-width-ignore . 10) (min-height-safe . 3) (min-width-safe . 4) (min-pixel-height . 168) (min-pixel-width . 140) (min-pixel-height-ignore . 84) (min-pixel-width-ignore . 70) (min-pixel-height-safe . 42) (min-pixel-width-safe . 28)) hc (pixel-width . 1600) (pixel-height . 797) (total-width . 229) (total-height . 57) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 791) (pixel-height . 797) (total-width . 113) (total-height . 57) (normal-height . 1.0) (normal-width . 0.49397590361445787) (combination-limit) (leaf (pixel-width . 791) (pixel-height . 657) (total-width . 113) (total-height . 47) (normal-height . 0.8235294117647058) (normal-width . 1.0) (buffer "main.py" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins 2) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 542) (start . 57))) (leaf (last . t) (pixel-width . 791) (pixel-height . 140) (total-width . 113) (total-height . 10) (normal-height . 0.17647058823529413) (normal-width . 1.0) (buffer "node_voltage.crt" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 2) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 52) (start . 1)))) (vc (last . t) (pixel-width . 809) (pixel-height . 797) (total-width . 116) (total-height . 57) (normal-height . 1.0) (normal-width . 0.5060240963855421) (combination-limit) (leaf (pixel-width . 809) (pixel-height . 335) (total-width . 116) (total-height . 24) (normal-height . 0.4117647058823529) (normal-width . 1.0) (buffer "solver.py" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 5273) (start . 4532))) (leaf (pixel-width . 809) (pixel-height . 322) (total-width . 116) (total-height . 23) (normal-height . 0.4117647058823529) (normal-width . 1.0) (buffer "*Python*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 5874) (start . 4928))) (leaf (last . t) (pixel-width . 809) (pixel-height . 140) (total-width . 116) (total-height . 10) (normal-height . 0.17647058823529413) (normal-width . 1.0) (buffer "autoschaum.org" (selected) (hscroll . 0) (fringes 10 11 nil) (margins 1) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 304) (start . 1))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list '("/home/dany/.emacs.d/TAGS"))
+(setq search-ring nil)
+(setq regexp-search-ring '("excu" "pytho" "Circuit" "\"TAB\"" "minorq" "TAB" "tab"))
+(setq register-alist nil)
+(setq file-name-history '("/home/dany/Documents/AutoSchaum/.git/COMMIT_EDITMSG" "~/Documents/AutoSchaum/AutoSchaum/main.py" "/home/dany/Documents/AutoSchaum/.git/COMMIT_EDITMSG" "~/Documents/AutoSchaum/AutoSchaum/resources/node_voltage.crt" "~/org/autoschaum.org" "~/.virtualenvs/AutoSchaum/bin/pylint" "~/.emacs.d/scripts/emacs-virtualenv.el" "~/.pylintrc" "~/.emacs.d/customizations/python-editing.el" "~/Documents/AutoSchaum/setup.cfg" "~/Documents/AutoSchaum/AutoSchaum/resources/my_circuit.crt" "~/.emacs.d/init.el" "~/Documents/AutoSchaum/AutoSchaum/cursors.py" "~/Documents/AutoSchaum/AutoSchaum/tests/test_cursors_unittest.py" "~/Documents/AutoSchaum/requirements-dev.txt" "~/Documents/AutoSchaum/AutoSchaum/circuit.py" "~/.emacs.d/customizations/elisp-editing.el" "~/.emacs.d/customizations/setup-clojure.el" "~/.emacs.d/ido.last" "/home/dany/Documents/AutoSchaum/.git/COMMIT_EDITMSG" "~/Documents/AutoSchaum/lib/.." "~/Documents/AutoSchaum/lib/" "~/Documents/AutoSchaum/resources/" "/home/dany/Documents/AutoSchaum/.git/COMMIT_EDITMSG" "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/.git/COMMIT_EDITMSG" "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/bin/pylint" "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/main.py" "~/Documents/8th Light Task/coding_challenges/clojure/test/play_test.clj" "/home/dany/Documents/8th Light Task/coding_challenges/.git/COMMIT_EDITMSG" "~/Documents/8th Light Task/coding_challenges/clojure/src/game/core.clj"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/main.py"
+  "main.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode auto-complete-mode company-mode magit-auto-revert-mode)
+  542
+  '(44 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/org/autoschaum.org"
+  "autoschaum.org"
+  'org-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  304
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/solver.py"
+  "solver.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode auto-complete-mode company-mode magit-auto-revert-mode)
+  5273
+  '(5273 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/resources/node_voltage.crt"
+  "node_voltage.crt"
+  'fundamental-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  52
+  '(51 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/tests/test_solver_unittest.py"
+  "test_solver_unittest.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode yas-minor-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode company-mode magit-auto-revert-mode)
+  883
+  '(883 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/customizations/python-editing.el"
+  "python-editing.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  832
+  '(805 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  8696
+  '(8696 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/emacs scripts/harp-mode/harp-mode.el"
+  "harp-mode.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  2765
+  '(2915 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "harp-mode"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  342
+  '(nil nil)
+  t
+  '("/home/dany/Documents/emacs scripts/harp-mode/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "emacs scripts"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  224
+  '(nil nil)
+  t
+  '("/home/dany/Documents/emacs scripts/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/circuit.py"
+  "circuit.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode company-mode magit-auto-revert-mode)
+  1202
+  '(13069 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/scripts/emacs-virtualenv.el"
+  "emacs-virtualenv.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  2146
+  '(1243 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/elpa/pungi-1.1/pungi.el"
+  "pungi.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  2674
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/cursors.py"
+  "cursors.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode auto-complete-mode company-mode magit-auto-revert-mode)
+  6375
+  '(921 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/drawer.py"
+  "drawer.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode company-mode magit-auto-revert-mode)
+  633
+  '(208 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/.gitignore"
+  ".gitignore"
+  'fundamental-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  72
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/resources/my_circuit.crt"
+  "my_circuit.crt"
+  'fundamental-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  49
+  '(49 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/setup.cfg"
+  "setup.cfg"
+  'conf-unix-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  103
+  '(126 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.pylintrc"
+  ".pylintrc"
+  'fundamental-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  2403
+  '(2503 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.virtualenvs/AutoSchaum/bin/pylint"
+  "pylint"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  250
+  '(245 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/elpa/flycheck-0.25.1/flycheck.el"
+  "flycheck.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  186557
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/elpa/yasnippet-20160104.129/yasnippet.el"
+  "yasnippet.el"
+  'emacs-lisp-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode elisp-slime-nav-mode paredit-mode eldoc-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode company-mode magit-auto-revert-mode)
+  13968
+  '(13483 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/AutoSchaum/tests/test_cursors_unittest.py"
+  "test_cursors_unittest.py"
+  'python-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode eldoc-mode helm-mode flycheck-mode ropemacs-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode hs-minor-mode anaconda-mode auto-complete-mode company-mode magit-auto-revert-mode)
+  804
+  '(956 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/dany/.emacs.d/snippets/python-mode/unittest-snip.py"
+  "unittest-snip.py"
+  'snippet-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode yas-minor-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  289
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "AutoSchaum"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  344
+  '(nil nil)
+  t
+  '("/home/dany/Documents/AutoSchaum/AutoSchaum/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/dany/Documents/AutoSchaum/requirements-dev.txt"
+  "requirements-dev.txt"
+  'text-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  97
+  '(97 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "snippets"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  231
+  '(231 nil)
+  t
+  '("/home/dany/.emacs.d/snippets/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "AutoSchaum"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  577
+  '(577 nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  179
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/src/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "share"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  181
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/share/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "man"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  185
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/share/man/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "man1"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  190
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/share/man/man1/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "man"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  179
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/man/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "man1"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  186
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/man/man1/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "local"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  180
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/local/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "lib"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  179
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/lib/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "python2.7"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  194
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/lib/python2.7/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "include"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  182
+  '(nil nil)
+  t
+  '("/home/dany/.virtualenvs/AutoSchaum/include/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "AutoSchaum"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  911
+  '(nil nil)
+  t
+  '("/home/dany/Documents/AutoSchaum/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  176
+  '(nil nil)
+  t
+  '("/home/dany/Documents/AutoSchaum/src/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "schemedraw"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode helm-gtags-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  187
+  '(nil nil)
+  t
+  '("/home/dany/Documents/AutoSchaum/src/schemedraw/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  2720
+  '(2720 nil)
+  t
+  '("/home/dany/.emacs.d/elpa/flycheck-0.25.1/flycheck" "Top" ((history ("dir" "Top" 392))))
+  '((tab-width . 8) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/usr/share/emacs/24.4/etc/THE-GNU-PROJECT.dfsg"
+  "THE-GNU-PROJECT.dfsg"
+  'fundamental-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode helm-mode flycheck-mode undo-tree-mode flx-ido-mode which-key-mode back-button-mode company-mode magit-auto-revert-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+

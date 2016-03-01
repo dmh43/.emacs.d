@@ -1,0 +1,343 @@
+;;; -*- coding: utf-8 -*-
+(("/home/dany/Documents/AutoSchaum/src/schemedraw/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/src/schemedraw/.."))
+ ("/home/dany/Documents/AutoSchaum/src/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/src/.."))
+ ("/home/dany/Documents/AutoSchaum/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/src"))
+ ("/home/dany/.virtualenvs/AutoSchaum/include/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/include/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/lib/python2.7/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/lib/python2.7/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/lib/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/lib/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/local/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/local/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/man/man1/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/man/man1/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/man/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/man/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/share/man/man1/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/share/man/man1/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/share/man/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/share/man/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/share/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/share/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/src/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum/src/.."))
+ ("/home/dany/.virtualenvs/AutoSchaum/" . 577)
+ ("/home/dany/.emacs.d/snippets/"
+  (dired-filename . "/home/dany/.emacs.d/snippets/python-mode"))
+ ("/home/dany/Documents/AutoSchaum/requirements-dev.txt" . 97)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/AutoSchaum/components.py"))
+ ("/home/dany/.emacs.d/snippets/python-mode/unittest-snip.py" . 289)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/tests/test_cursors_unittest.py" . 804)
+ ("/home/dany/.emacs.d/elpa/yasnippet-20160104.129/yasnippet.el" . 13968)
+ ("/home/dany/.emacs.d/elpa/flycheck-0.25.1/flycheck.el" . 186557)
+ ("/home/dany/.virtualenvs/AutoSchaum/bin/pylint" . 250)
+ ("/home/dany/.pylintrc" . 2403)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/main.py" . 395)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/circuit.py" . 13069)
+ ("/home/dany/Documents/AutoSchaum/setup.cfg" . 103)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/resources/my_circuit.crt" . 49)
+ ("/home/dany/org/autoschaum.org" . 180)
+ ("/home/dany/Documents/AutoSchaum/.gitignore" . 72)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/drawer.py" . 633)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/cursors.py" . 6375)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/tests/test_solver_unittest.py" . 1258)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/resources/node_voltage.crt" . 51)
+ ("/home/dany/.emacs.d/elpa/pungi-1.1/pungi.el" . 2674)
+ ("/home/dany/.emacs.d/scripts/emacs-virtualenv.el" . 1402)
+ ("/home/dany/.emacs.d/customizations/python-editing.el" . 153)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/solver.py" . 865)
+ ("/home/dany/.emacs.d/elpa/helm-20160114.723/helm-config.el" . 835)
+ ("/home/dany/.emacs.d/scripts/" . 298)
+ ("/home/dany/.emacs.d/customizations/c-editing.el" . 279)
+ ("/home/dany/.emacs.d/customizations/md-editing.el" . 186)
+ ("/home/dany/.emacs.d/customizations/setup-clojure.el" . 2366)
+ ("/home/dany/.emacs.d/elpa/pyvenv-1.9/pyvenv.el" . 5126)
+ ("/home/dany/.emacs.d/customizations/navigation.el" . 1720)
+ ("/home/dany/.emacs.d/customizations/ui.el" . 2629)
+ ("/home/dany/.emacs.d/customizations/editing.el" . 159)
+ ("/home/dany/.emacs.d/customizations/misc.el" . 158)
+ ("/home/dany/.emacs.d/customizations/elisp-editing.el" . 979)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/resources/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/AutoSchaum/resources/.."))
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/tests/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/AutoSchaum/tests/.."))
+ ("/home/dany/Documents/"
+  (dired-filename . "/home/dany/Documents/.."))
+ ("/home/dany/Documents/AutoSchaum/.ropeproject/"
+  (dired-filename . "/home/dany/Documents/AutoSchaum/.ropeproject/.."))
+ ("/home/"
+  (dired-filename . "/home/dany"))
+ ("/home/dany/"
+  (dired-filename . "/home/dany/.vimrc.before"))
+ ("/home/dany/.virtualenvs/"
+  (dired-filename . "/home/dany/.virtualenvs/AutoSchaum"))
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/.emacs.desktop" . 6163)
+ ("/home/dany/.virtualenvs/AutoSchaum/src/schemedraw/setup.py" . 35)
+ ("/home/dany/.virtualenvs/AutoSchaum/local/lib/python2.7/site-packages/nose2/__init__.py" . 12)
+ ("/home/dany/.emacs.d/elpa/nose-0.1.1/nose.el" . 2988)
+ ("/home/dany/.virtualenvs/AutoSchaum/src/schemedraw/SchemDraw/schemdraw.py" . 1719)
+ ("/home/dany/.virtualenvs/AutoSchaum/local/lib/python2.7/site-packages/pkg_resources/__init__.py" . 105380)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/helper_funcs.py" . 8)
+ ("/home/dany/.virtualenvs/AutoSchaum/src/schemedraw/SchemDraw/elements.py" . 3674)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/__init__.py" . 37)
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/components.py" . 8)
+ ("/home/dany/.emacs.d/ido.last" . 1045)
+ ("/home/dany/.emacs.d/elpa/helm-pydoc-0.7/helm-pydoc-autoloads.el" . 442)
+ ("/home/dany/Documents/AutoSchaum/.ropeproject/config.py" . 2336)
+ ("/home/dany/.emacs.d/elpa/nose-0.1.1/nose-autoloads.el" . 222)
+ ("/home/dany/Documents/AutoSchaum/.emacs.desktop" . 6163)
+ ("/sudo:root@localhost:/usr/share/emacs24/site-lisp/pymacs/pymacs.el" . 5649)
+ ("/home/dany/.emacs.d/url/"
+  (dired-filename . "/home/dany/.emacs.d/url/.."))
+ ("/home/dany/.emacs.d/elpa/"
+  (dired-filename . "/home/dany/.emacs.d/elpa/.."))
+ ("/home/dany/.emacs.d/"
+  (dired-filename . "/home/dany/.emacs.d/elpa"))
+ ("/sudo:root@localhost:/usr/share/emacs/24.4/lisp/desktop.elc" . 3495)
+ ("/usr/share/emacs/24.4/lisp/desktop.elc" . 1892)
+ ("/home/dany/.emacs.d/.emacs.desktop" . 5737)
+ ("/home/dany/.emacs.d/tramp" . 229)
+ ("/home/dany/.emacs.d/.python-environments/default/"
+  (dired-filename . "/home/dany/.emacs.d/.python-environments/default/include"))
+ ("/home/dany/.emacs.d/todo/" . 169)
+ ("/home/dany/Documents/AutoSchaum/README.md" . 87)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/test/"
+  (dired-filename . "/home/dany/Documents/8th Light Task/coding_challenges/clojure/test/.."))
+ ("/home/dany/.emacs.d/auto-save-list/"
+  (dired-filename . "/home/dany/.emacs.d/auto-save-list/.."))
+ ("/home/dany/Documents/clojure-sandbox/"
+  (dired-filename . "/home/dany/Documents/clojure-sandbox/LICENSE"))
+ ("/home/dany/Documents/clojure-sandbox/src/"
+  (dired-filename . "/home/dany/Documents/clojure-sandbox/src/clojure_sandbox"))
+ ("/home/dany/Documents/clojure-sandbox/src/clojure_sandbox/"
+  (dired-filename . "/home/dany/Documents/clojure-sandbox/src/clojure_sandbox/core.clj"))
+ ("/home/dany/Documents/8th Light Task/"
+  (dired-filename . "/home/dany/Documents/8th Light Task/coding_challenges"))
+ ("/home/dany/Documents/8th Light Task/coding_challenges/"
+  (dired-filename . "/home/dany/Documents/8th Light Task/coding_challenges/clojure"))
+ ("/home/dany/Documents/clojure-sandbox/project.clj" . 198)
+ ("/home/dany/Documents/emacs scripts/harp-mode/"
+  (dired-filename . "/home/dany/Documents/emacs scripts/harp-mode/.git"))
+ ("/home/dany/.emacs.d/elpa/ecb-2.24/"
+  (dired-filename . "/home/dany/.emacs.d/elpa/ecb-2.24/ecb.el"))
+ ("/home/dany/.emacs.d/elpa/ecb-2.24/ecb.el" . 7776)
+ ("/home/dany/Documents/scratch/lll.py" . 1547)
+ ("/home/dany/Documents/emacs scripts/harp-mode/harp-mode-test.el" . 1104)
+ ("/home/dany/Documents/emacs scripts/harp-mode/README.md" . 420)
+ ("/home/dany/.emacs.d/image-dired/"
+  (dired-filename . "/home/dany/.emacs.d/image-dired/.."))
+ ("/home/dany/.lein/" . 334)
+ ("/home/dany/Documents/emacs scripts/"
+  (dired-filename . "/home/dany/Documents/emacs scripts/harp-mode"))
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/ai.clj" . 2070)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/input.clj" . 1080)
+ ("/home/dany/Documents/emacs scripts/harp-mode/harp-mode.el" . 2915)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/display.clj" . 1268)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/menus.clj" . 5831)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/test/menus_test.clj" . 1043)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/core.clj" . 865)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/"
+  (dired-filename . "/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/.."))
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/"
+  (dired-filename . "/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/.."))
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/"
+  (dired-filename . "/home/dany/Documents/8th Light Task/coding_challenges/clojure/src"))
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/grid.clj" . 2281)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/game_play.clj" . 1096)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/test/play_test.clj" . 624)
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/test/grid_test.clj" . 627)
+ ("/home/dany/tmp/"
+  (dired-filename . "/home/dany/tmp/strs.py"))
+ ("/home/dany/tmp/fdsad.py" . 702)
+ ("/mnt/"
+  (dired-filename . "/mnt/windows"))
+ ("/mnt/windows/"
+  (dired-filename . "/mnt/windows/Users"))
+ ("/mnt/windows/Users/"
+  (dired-filename . "/mnt/windows/Users/Dany"))
+ ("/mnt/windows/Users/Dany/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents"))
+ ("/mnt/windows/Users/Dany/Documents/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub"))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub/Python"))
+ ("/home/dany/org/"
+  (dired-filename . "/home/dany/org/harp-mode.org"))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/Include/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/Include/.."))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/Lib/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/Lib/.."))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/.."))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/drawer.py"))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/"
+  (dired-filename . "/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum"))
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/src/schemedraw/SchemDraw/__init__.py" . 30)
+ ("/home/dany/.emacs.d/anaconda-mode/0.1.1/"
+  (dired-filename . "/home/dany/.emacs.d/anaconda-mode/0.1.1/anaconda_mode-0.1.1.egg-info"))
+ ("/home/dany/.emacs.d/anaconda-mode/"
+  (dired-filename . "/home/dany/.emacs.d/anaconda-mode/0.1.1"))
+ ("/home/dany/.emacs.d/.python-environments/default/bin/"
+  (dired-filename . "/home/dany/.emacs.d/.python-environments/default/bin/activate"))
+ ("/home/dany/.emacs.d/.python-environments/default/include/"
+  (dired-filename . "/home/dany/.emacs.d/.python-environments/default/include/python2.7"))
+ ("/home/dany/.emacs.d/themes/"
+  (dired-filename . "/home/dany/.emacs.d/themes/color-theme-tomorrow.el"))
+ ("/home/dany/.emacs.d/snippets/clojure-mode/"
+  (dired-filename . "/home/dany/.emacs.d/snippets/clojure-mode/c"))
+ ("/home/dany/.emacs.d/var/pcache/gh/"
+  (dired-filename . "/home/dany/.emacs.d/var/pcache/gh/gh-gist-api"))
+ ("/home/dany/.emacs.d/var/pcache/"
+  (dired-filename . "/home/dany/.emacs.d/var/pcache/gh"))
+ ("/home/dany/.emacs.d/var/"
+  (dired-filename . "/home/dany/.emacs.d/var/pcache"))
+ ("/home/dany/.emacs.d/scripts/key-chord.el" . 13879)
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/src/schemedraw/SchemDraw/schemdraw.py" . 4067)
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/main.py" . 318)
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/drawer.py" . 486)
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/circuit.py" . 1131)
+ ("/home/dany/.emacs.d/elpa/flycheck-0.25.1/flycheck-autoloads.el" . 8357)
+ ("/home/dany/.emacs.d/elpa/let-alist-1.0.4/let-alist-autoloads.el" . 1251)
+ ("/home/dany/.emacs.d/elpa/flymake-python-pyflakes-0.9/flymake-python-pyflakes-autoloads.el" . 511)
+ ("/home/dany/.emacs.d/elpa/flymake-easy-0.10/flymake-easy-autoloads.el" . 245)
+ ("/home/dany/.emacs.d/elpa/fish-mode-0.1.2/fish-mode-autoloads.el" . 638)
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/cursors.py" . 3403)
+ ("/home/dany/.emacs.d/.python-environments/"
+  (dired-filename . "/home/dany/.emacs.d/.python-environments/default"))
+ ("/home/dany/.emacs.d/elpa/anaconda-mode-20150922.537/anaconda-mode.el" . 20177)
+ ("/home/dany/.emacs.d/elpa/elisp-slime-nav-0.8/elisp-slime-nav-autoloads.el" . 1246)
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/local/lib/python2.7/site-packages/matplotlib/__init__.py" . 1500)
+ ("/home/dany/.emacs.d/elpa/pungi-1.1/"
+  (dired-filename . "/home/dany/.emacs.d/elpa/pungi-1.1/pungi.el"))
+ ("/home/dany/.emacs.d/elpa/pungi-1.1/pungi-autoloads.el" . 340)
+ ("/home/dany/.emacs.d/elpa/pyvenv-1.9/pyvenv-autoloads.el" . 1887)
+ ("/sudo:root@localhost:/usr/local/lib/python2.7/dist-packages/matplotlib/__init__.py" . 5588)
+ ("/sudo:root@localhost:/usr/local/lib/python2.7/dist-packages/SchemDraw/schemdraw.py" . 4031)
+ ("/sudo:root@localhost:/usr/lib/python2.7/bdb.py" . 13816)
+ ("/home/dany/org/harp-mode.org" . 41)
+ ("/home/dany/.emacs.d/elpa/crux-0.1.0/crux-autoloads.el" . 222)
+ ("/home/dany/.emacs.d/elpa/back-button-0.6.6/back-button-autoloads.el" . 4078)
+ ("/home/dany/.emacs.d/elpa/nav-flash-1.1.0/nav-flash-autoloads.el" . 1043)
+ ("/home/dany/.emacs.d/elpa/smartrep-1.0.0/smartrep-autoloads.el" . 230)
+ ("/home/dany/.emacs.d/elpa/ucs-utils-0.8.4/ucs-utils-autoloads.el" . 8503)
+ ("/home/dany/.emacs.d/elpa/persistent-soft-0.8.10/persistent-soft-autoloads.el" . 1895)
+ ("/home/dany/.emacs.d/elpa/smart-mode-line-powerline-theme-2.9/smart-mode-line-powerline-theme-autoloads.el" . 496)
+ ("/home/dany/.emacs.d/elpa/powerline-2.2/powerline-autoloads.el" . 4160)
+ ("/home/dany/.emacs.d/elpa/modalka-0.1.2/modalka-autoloads.el" . 2410)
+ ("/home/dany/.emacs.d/elpa/smart-mode-line-2.9/smart-mode-line-autoloads.el" . 1919)
+ ("/home/dany/.emacs.d/elpa/rich-minority-1.0.1/rich-minority-autoloads.el" . 1145)
+ ("/home/dany/.emacs.d/elpa/sml-mode-6.7/sml-mode-autoloads.el" . 1534)
+ ("/home/dany/.emacs.d/elpa/which-key-0.8/which-key-autoloads.el" . 4708)
+ ("/home/dany/.emacs.d/elpa/buffer-move-0.6.2/buffer-move-autoloads.el" . 1137)
+ ("/home/dany/.lein/profiles.clj" . 62)
+ ("/home/dany/Documents/clojure-sandbox/src/clojure_sandbox/core.clj" . 492)
+ ("/home/dany/Documents/blig/"
+  (dired-filename . "/home/dany/Documents/blig/pcakes.md"))
+ ("/home/dany/Documents/blig/pcakes.md" . 1099)
+ ("/home/dany/Documents/blig/octopress/_deploy/"
+  (dired-filename . "/home/dany/Documents/blig/octopress/_deploy/.."))
+ ("/home/dany/Documents/blig/octopress/"
+  (dired-filename . "/home/dany/Documents/blig/octopress/source"))
+ ("/home/dany/Documents/blig/octopress/source/"
+  (dired-filename . "/home/dany/Documents/blig/octopress/source/_posts"))
+ ("/home/dany/Documents/blig/octopress/source/_posts/"
+  (dired-filename . "/home/dany/Documents/blig/octopress/source/_posts/2016-01-25-a-food-blig.markdown"))
+ ("/home/dany/Documents/blig/Day1.md" . 244)
+ ("/home/dany/Documents/blig/octopress/source/_posts/2016-01-25-a-food-blig.markdown" . 1045)
+ ("/home/dany/Documents/blig/somebiscuits.md" . 176)
+ ("/home/dany/.emacs.d/elpa/cider-0.10.1/cider.el" . 11295)
+ ("/home/dany/.emacs.d/elpa/clojure-snippets-1.0.0/clojure-snippets-autoloads.el" . 557)
+ ("/home/dany/Documents/Factual Test/word-search/project.clj" . 544)
+ ("/home/dany/Documents/cpp/"
+  (dired-filename . "/home/dany/Documents/cpp/grav"))
+ ("/home/dany/Documents/cpp/grav/"
+  (dired-filename . "/home/dany/Documents/cpp/grav/grav.cpp"))
+ ("/home/dany/Documents/cpp/grav/grav.cpp" . 84)
+ ("/home/dany/Documents/cpp/grav/grav.md" . 6405)
+ ("/home/dany/.emacs.d/customizations/"
+  (dired-filename . "/home/dany/.emacs.d/customizations/editing.el"))
+ ("/home/dany/Documents/Factual Test/word-search/test/word_search/core_test.clj" . 1066)
+ ("/home/dany/Documents/Factual Test/word-search/src/word_search/core.clj" . 1070)
+ ("/home/dany/.emacs.d/elpa/cider-0.10.1/cider-autoloads.el" . 6886)
+ ("/home/dany/.emacs.d/elpa/cider-decompile-20151121.2137/cider-decompile-autoloads.el" . 662)
+ ("/home/dany/.emacs.d/elpa/clj-refactor-1.1.0/clj-refactor-autoloads.el" . 5550)
+ ("/home/dany/.emacs.d/elpa/clojure-mode-20160117.450/clojure-mode-autoloads.el" . 1155)
+ ("/home/dany/.emacs.d/elpa/clojure-mode-extra-font-locking-20160116.321/clojure-mode-extra-font-locking-autoloads.el" . 283)
+ ("/home/dany/Documents/Factual Test/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search"))
+ ("/home/dany/Documents/Factual Test/word-search/test/word_search/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search/test/word_search/.."))
+ ("/home/dany/Documents/Factual Test/word-search/test/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search/test/.."))
+ ("/home/dany/Documents/Factual Test/word-search/resources/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search/resources/.."))
+ ("/home/dany/Documents/Factual Test/word-search/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search/src"))
+ ("/home/dany/Documents/Factual Test/word-search/src/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search/src/word_search"))
+ ("/home/dany/Documents/Factual Test/word-search/src/word_search/"
+  (dired-filename . "/home/dany/Documents/Factual Test/word-search/src/word_search/core.clj"))
+ ("/home/dany/.emacs.d/elpa/spinner-1.4/spinner-autoloads.el" . 2421)
+ ("/home/dany/.emacs.d/elpa/seq-1.11/seq-autoloads.el" . 220)
+ ("/home/dany/.emacs.d/elpa/javap-mode-20120223.1408/javap-mode-autoloads.el" . 384)
+ ("/home/dany/.emacs.d/elpa/multiple-cursors-20151205.1225/multiple-cursors-autoloads.el" . 8688)
+ ("/home/dany/.emacs.d/elpa/edn-20150929.146/edn-autoloads.el" . 2062)
+ ("/home/dany/.emacs.d/elpa/peg-20150707.2341/peg-autoloads.el" . 220)
+ ("/home/dany/.emacs.d/elpa/inflections-20121016.157/inflections-autoloads.el" . 433)
+ ("/home/dany/.emacs.d/elpa/hydra-20151214.417/hydra-autoloads.el" . 2255)
+ ("/home/dany/.emacs.d/url/cookies" . 231)
+ ("/home/dany/.emacs.d/elpa/elein-0.2.2/elein-autoloads.el" . 911)
+ ("/home/dany/.gtags/include/GL/gl_mangle.h" . 1041)
+ ("/home/dany/tmp/strs.py" . 120)
+ ("/home/dany/.emacs.d/elpa/cl-generic-0.2/cl-generic-autoloads.el" . 420)
+ ("/home/dany/.emacs.d/.python-environments/default/lib/python2.7/genericpath.py" . 398)
+ ("/home/dany/.emacs.d/elpa/ein-20160114.1441/ein-autoloads.el" . 11452)
+ ("/home/dany/.emacs.d/elpa/websocket-20150719.1048/websocket-autoloads.el" . 232)
+ ("/home/dany/.emacs.d/elpa/request-20160108.33/request-autoloads.el" . 228)
+ ("/home/dany/.emacs.d/elpa/company-jedi-20151216.1921/company-jedi-autoloads.el" . 523)
+ ("/home/dany/.emacs.d/elpa/jedi-20151214.705/jedi-autoloads.el" . 932)
+ ("/home/dany/.emacs.d/elpa/jedi-core-20151214.705/jedi-core-autoloads.el" . 3658)
+ ("/home/dany/.emacs.d/elpa/epc-20140609.2234/epc-autoloads.el" . 251)
+ ("/home/dany/.emacs.d/elpa/concurrent-20160109.2046/concurrent-autoloads.el" . 234)
+ ("/home/dany/.emacs.d/elpa/ctable-20140304.1659/ctable-autoloads.el" . 226)
+ ("/home/dany/.emacs.d/elpa/python-environment-20150310.153/python-environment-autoloads.el" . 315)
+ ("/home/dany/.emacs.d/elpa/deferred-20160109.2046/deferred-autoloads.el" . 230)
+ ("/home/dany/.emacs.d/elpa/auto-complete-20160107.8/auto-complete-autoloads.el" . 1711)
+ ("/home/dany/.emacs.d/elpa/popup-20151222.1339/popup-autoloads.el" . 224)
+ ("/home/dany/.emacs.d/customizations/setup-helm.el" . 3040)
+ ("/home/dany/.emacs.d/elpa/helm-swoop-20151022.1750/helm-swoop-autoloads.el" . 1691)
+ ("/home/dany/.emacs.d/elpa/hippie-exp-ext-20151011.145/hippie-exp-ext-autoloads.el" . 250)
+ ("/home/dany/.emacs.d/elpa/helm-gtags-20160112.1458/helm-gtags-autoloads.el" . 3293)
+ ("/home/dany/.emacs.d/elpa/company-0.8.12/company-autoloads.el" . 8677)
+ ("/home/dany/.emacs.d/elpa/company-anaconda-20151230.1103/company-anaconda-autoloads.el" . 510)
+ ("/home/dany/.emacs.d/elpa/company-auctex-20151102.643/company-auctex-autoloads.el" . 1123)
+ ("/home/dany/.emacs.d/elpa/yasnippet-20160104.129/yasnippet-autoloads.el" . 1535)
+ ("/home/dany/.emacs.d/elpa/auctex-11.89/auctex-autoloads.el" . 10590)
+ ("/home/dany/.emacs.d/elpa/company-c-headers-20150801.901/company-c-headers-autoloads.el" . 464)
+ ("/home/dany/.emacs.d/elpa/company-cmake-0.1/company-cmake-autoloads.el" . 248)
+ ("/home/dany/.emacs.d/elpa/company-math-1.0.1/company-math-autoloads.el" . 754)
+ ("/home/dany/.emacs.d/elpa/company-20160114.1736/company-autoloads.el" . 8426)
+ ("/home/dany/.emacs.d/elpa/math-symbol-lists-20151215.1043/math-symbol-lists-autoloads.el" . 256)
+ ("/home/dany/.emacs.d/elpa/anaconda-mode-20150922.537/anaconda-mode-autoloads.el" . 466)
+ ("/home/dany/.emacs.d/elpa/pythonic-20150730.216/pythonic-autoloads.el" . 482)
+ ("/home/dany/.emacs.d/elpa/f-20151113.123/f-autoloads.el" . 216)
+ ("/home/dany/Downloads/gtags/INSTALL" . 1286)
+ ("/home/dany/Downloads/gtags/README" . 393)
+ ("/home/dany/.emacs.d/elpa/autopair-20140825.427/autopair.el" . 13201)
+ ("/home/dany/.emacs.d/elpa/autopair-20140825.427/autopair-autoloads.el" . 1181)
+ ("/home/dany/.emacs.d/elpa/ctags-20110911.304/ctags-autoloads.el" . 224)
+ ("/home/dany/Scratch Code/partition.py" . 1910)
+ ("/mnt/windows/Users/Dany/AppData/Roaming/org/job-qs.org" . 3116)
+ ("/home/dany/.emacs.d/elpa/realgud-20160110.702/realgud-autoloads.el" . 253)
+ ("/home/dany/.emacs.d/elpa/load-relative-1.2/load-relative-autoloads.el" . 3822)
+ ("/home/dany/.emacs.d/elpa/list-utils-20140508.1341/list-utils-autoloads.el" . 15886)
+ ("/home/dany/.emacs.d/elpa/loc-changes-20150302.848/loc-changes-autoloads.el" . 1725)
+ ("/home/dany/.emacs.d/elpa/test-simple-20151110.1943/test-simple-autoloads.el" . 1186)
+ ("/home/dany/tmp/fun.clj" . 24)
+ ("/home/dany/.emacs.d/elpa/gist-20151228.1941/gist-autoloads.el" . 2324))

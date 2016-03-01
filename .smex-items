@@ -1,0 +1,51 @@
+
+;; ----- smex-history -----
+(
+ company-anaconda
+ company-mode
+ anaconda-mode
+ package-list-packages
+ package-install
+ ggtags-mode
+ shell
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 10)
+ (package-list-packages . 8)
+ (shell . 6)
+ (cider-jack-in . 4)
+ (split-window-vertically . 1)
+ (split-window-horizontally . 1)
+ (list-packages . 1)
+ (pdb . 8)
+ (cd . 1)
+ (gud-mode . 2)
+ (realgud:pdb . 26)
+ (python-mode . 6)
+ (org-indent-mode . 1)
+ (markdown-mode . 4)
+ (ispell . 1)
+ (gist-buffer . 1)
+ (dired . 2)
+ (projectile-regenerate-tags . 1)
+ (projectile-find-file . 1)
+ (projectile-mode . 2)
+ (customize-group . 1)
+ (recentf-open-files . 3)
+ (company-mode . 3)
+ (eldoc-mode . 1)
+ (customize-variable . 1)
+ (helm-org-parent-headings . 1)
+ (hippie-expand . 9)
+ (find-file-at-point . 1)
+ (comint-dynamic-complete . 2)
+ (comint-dynamic-complete-filename . 2)
+ (comint-mode . 1)
+ (lisp-mode . 1)
+ (comint-dynamic-list-filename-completions . 1)
+ (ggtags-mode . 1)
+ (anaconda-mode . 1)
+ (company-anaconda . 2)
+)

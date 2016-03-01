@@ -1,0 +1,180 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ (#("/home/dany/.emacs.d/snippets/" 11 15 (face flx-highlight-face) 20 23 (face flx-highlight-face)) . "clojure-mode/")
+ ("/home/dany/.virtualenvs/AutoSchaum/" . "bin/")
+ ("/home/dany/.virtualenvs/" . "AutoSchaum/")
+ ("/mnt/windows/Users/Dany/Documents/" . "GitHub/")
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/" . "AutoSchaum/")
+ ("/mnt/windows/Users/Dany/Documents/GitHub/" . "Python/")
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/" . "env/")
+ ("/home/" . "dany/")
+ ("/home/dany/Documents/emacs scripts/" . "harp-mode/")
+ ("/home/dany/Documents/blig/" . "octopress/")
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/" . "game/")
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/" . "src/")
+ ("/home/dany/Documents/8th Light Task/coding_challenges/" . "clojure/")
+ ("/home/dany/Documents/8th Light Task/" . "coding_challenges/")
+ ("/home/dany/.emacs.d/" . #("snippets/" 0 3 (face flx-highlight-face)))
+ ("/home/dany/Documents/" . "AutoSchaum/")
+ ("/mnt/windows/Users/Dany/AppData/" . "Roaming/")
+ ("/mnt/windows/Users/Dany/" . "Documents/")
+ ("/mnt/windows/Users/" . "Dany/")
+ ("/mnt/windows/" . "Users/")
+ ("/mnt/" . "windows/")
+ ("/" . "mnt/")
+ ("/home/dany/" . #(".emacs.d/" 0 6 (face flx-highlight-face)))
+ ("c:/Users/Dany/AppData/Roaming/.emacs.d/" . "customizations/")
+ ("c:/Users/Dany/" . "tmp/")
+ ("c:/Users/" . "Dany/")
+ ("c:/Users/Dany/AppData/Roaming/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/dany/.emacs.d/"
+ "/home/dany/tmp/"
+ "/home/dany/Documents/"
+ "/home/dany/.emacs.d/customizations/"
+ "/home/dany/Documents/blig/"
+ "/mnt/windows/Users/Dany/AppData/Roaming/org/"
+ "/home/dany/bin/"
+ "c:/Users/Dany/tmp/"
+ "c:/Users/Dany/AppData/Roaming/.emacs.d/"
+ "c:/Users/Dany/AppData/Roaming/.emacs.d/customizations/"
+ "c:/Users/Dany/AppData/Roaming/org/"
+ "c:/Users/Dany/AppData/Roaming/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "strs.py"
+ "grav.cpp"
+ "elisp-editing.el"
+ "setup-clojure.el"
+ "ui.el"
+ "navigation.el"
+ "editing.el"
+ "somebiscuits.md"
+ ".project"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/tests/" (22199 51086 153112 858000) "flycheck_test_cursors_unittest.pyc" "test_cursors_unittest.pyc" "test_solver_unittest.py" "__init__.py" ".coverage" "../" "./" "__init__.pyc" "test_cursors_unittest.py")
+
+ (#("/home/dany/.emacs.d/snippets/" 11 15 (face flx-highlight-face)) (22199 51001 449116 577000) "clojure-mode/" "../" "./")
+
+ (#("/home/dany/.emacs.d/snippets/clojure-mode/" 11 15 (face flx-highlight-face) 20 23 (face flx-highlight-face)) (22181 54480 737845 799000) "defn" "f" "fn" "defr" "m" "rn" ".git/" "kwargs" "README.md" "defm" "defp" "condp" "require" "c" "pm" "../" "refer" "./" "deft" "perf" "letfn" "use" "import" "defmm" "rstar" "if" "ns" "let")
+
+ ("/home/dany/.emacs.d/customizations/" (22199 47151 469285 614000) "md-editing.el" "navigation.el" "python-editing.el" "editing.el" "setup-clojure.el" "elisp-editing.el" "setup-helm.el" "../" "shell-integration.el" "misc.el" "./" "setup-js.el" "ui.el" "c-editing.el")
+
+ (#("/home/dany/.emacs.d/" 11 15 (face flx-highlight-face)) (22199 47145 569285 873000) "projectile-bookmarks.eld" "image-dired/" ".recentf" "TAGS" "auto-save-list/" "ac-comphist.dat" "README.md" "projectile.cache" "var/" "snippets/" "cider-history" "themes/" "../" "todo/" "elpa/" "ido.last" "customizations/" "backups/" "anaconda-mode/" "./" ".smex-items" ".python-environments/" "places" "scripts/" "url/" ".emacs.desktop" ".projectile" "tramp" "init.el")
+
+ ("/home/dany/" (22199 31089 273084 314000) ".gimp-2.8/" "mbox" ".wicd/" ".gnome2/" ".dbus/" ".lein/" ".vimundo/" ".bash_history" ".CLion12/" ".gnome2_private/" ".pip/" ".java/" "Public/" ".vimrc.before" ".vimrc.local" ".pylint.d/" ".pki/" ".erc/" ".lesshst" ".gvfs/" ".config/" ".vimswap/" ".gnupg/" "PlayOnLinux's virtual drives/" "bin/" ".PlayOnLinux/" ".local/" "Mail/" "usr/" ".shutter/" "Documents/" ".profile" ".smartgit/" "Desktop/" ".virtualenvs/" "int.bak" ".thumbnails/" ".gstreamer-0.10/" ".Xauthority" ".ecb-tip-of-day.el" ".audacity-data/" ".vimbackup/" ".ipython/" ".emacs.d/" ".selected_editor" "../" ".m2/" ".bash_logout" ".conkeror.mozdev.org/" ".subversion/" ".recently-used" ".gitconfig" ".spf13-vim-3/" "Pictures/" "Videos/" ".gconf/" ".xsession-errors" "org/" "Downloads/" ".vim/" ".vimrc.bundles" ".mozilla/" "./" ".xsel.log" ".xnviewmp/" ".wine/" "2016-02-07-004212_1600x900_scrot.png" "Scratch Code/" ".gem/" ".vimviews/" ".gnome/" ".vimrc" ".viminfo" ".gmrun_history" "2016-02-07-004210_1600x900_scrot.png" ".gtags/" ".ssh/" ".gtk-bookmarks" ".globalrc" "Templates/" ".bashrc" "Music/" "tmp/" ".cache/")
+
+ ("/home/dany/Documents/AutoSchaum/" (22199 50356 49144 914000) ".gitignore" ".ropeproject/" "__init__.py" "src/" "setup.cfg" ".git/" "README.md" "requirements-dev.txt" "../" "./" "AutoSchaum/" ".emacs.desktop" "__init__.pyc" "requirements.txt" "setup.py")
+
+ ("/home/dany/Documents/AutoSchaum/AutoSchaum/" (22199 49430 545185 549000) "solver.pyc" "drawer.pyc" "__init__.py" ".coverage" "impedance.py" "circuit.pyc" "drawer.py" "cursors.py" "../" ".emacs.desktop.lock" "cursors.pyc" "./" "helper_funcs.pyc" "components.py" "circuit.py" "main.py" "tests/" "solver.py" "helper_funcs.py" "components.pyc" "resources/" ".emacs.desktop" "__init__.pyc")
+
+ ("/home/dany/.emacs.d/scripts/" (22199 28571 693194 851000) "../" "nose-virtualenv.el" "./" "key-chord.el" "emacs-virtualenv.el")
+
+ ("/home/dany/.virtualenvs/AutoSchaum/" (22198 52825 36896 451000) "share/" "src/" "bin/" "local/" "lib/" "include/" "../" "./" "pip-selfcheck.json" "man/")
+
+ ("/home/dany/Documents/AutoSchaum/tests/" (22198 48897 457068 895000) "test_cursors_unittest.pyc" "../" "./" "test_cursors_unittest.py")
+
+ ("/home/dany/Documents/blig/" (22182 55645 527013 674000) "somebiscuits.md" "octopress/" "pcakes.md" "c92f00a28e1278afa543/" "../" "./" "dmh43.github.io/" "Day1.md" ".projectile")
+
+ ("/home/dany/tmp/" (22195 65086 526412 76000) "fdsad.py" "../" "fun.clj" "./" "tictactoe-clojure/" "strs.py" "fdsad.pyc")
+
+ ("/home/dany/Documents/AutoSchaum/resources/" (22196 10552 706577 165000) "testschematic.svg" "node_voltage.crt" "my_circuit.crt" "../" "./" "khiri.png" "text" "testschematic.png")
+
+ ("/home/dany/.virtualenvs/AutoSchaum/bin/" (22196 11546 378592 76000) "activate" "pip" "wheel" "activate.fish" "pip2" "easy_install" "../" "activate_this.py" "python2.7" "./" "python" "easy_install-2.7" "python2" "activate.csh" "pip2.7")
+
+ ("/home/dany/.virtualenvs/" (22196 11545 46592 56000) "../" "./" "AutoSchaum/")
+
+ ("/home/dany/Documents/" (22196 10190 38571 724000) "cpp/" "scratch/" "../" "8th Light Task/" "Factual Test/" "./" "AutoSchaum/" "blig/" "Clones/" "clojure-sandbox/" ".emacs.desktop" "emacs scripts/")
+
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/" (22196 8778 104089 0) "text" "testschematic.svg" "testschematic.png" "src/" "solver.pyc" "solver.py" "requirements.txt" "node_voltage.crt" "my_circuit.crt" "main.pyc" "main.py" "khiri.png" "impedance.pyc" "helper_funcs.pyc" "helper_funcs.py" "env/" "drawer.pyc" "drawer.py" "cursors.pyc" "cursors.py" "components.pyc" "components.py" "circuit.pyc" "circuit.py" ".idea/" ".gitignore" ".git/" "impedance.py" "../" "./")
+
+ ("/home/dany/.emacs.d/elpa/anaconda-mode-20150922.537/" (22169 52182 202688 737000) "anaconda-mode.el" "../" "anaconda-mode-autoloads.el" "./" "anaconda-mode-pkg.el" "anaconda-mode-pkg.elc" "anaconda-mode.elc")
+
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/" (21961 25254 406041 100000) "SDPD/" "AutoSchaum/" "../" "./")
+
+ ("/mnt/windows/Users/Dany/Documents/GitHub/" (22149 19555 574453 0) "snakejure/" "schemdraw/" "QuoraProblems/" "Python/" "PQ/" "pegthing/" "Melody-Extraction/" "mcu-code/" "Matlab/" "LabVIEW/" "icon.ico" "Health Tracker/" "Gists/" "desktop.ini" "core.matrix.complex/" "core.matrix/" "complex/" "clojure-koans/" "bst-check/" "../" "./")
+
+ ("/mnt/windows/Users/Dany/Documents/" (22132 58487 817887 900000) "hgignore_global.txt" "gitignore_global.txt" "GitHub/" "gegl-0.0/" "Fax/" "ExpressPCB/" "High School/" "esq01c.brd" "My Videos/" "My Shapes/" "My Pictures/" "My Music/" "My Kindle Content/" "My ISO Files/" "My Games/" "My Data Sources/" "Music/" "midland/" "MATLAB/" "LabVIEW Data/" "Important/" "Image-Line/" "Ideation Interactive/" "Ideation/" "IdeaSys/" "ICC/" "WPA Files/" "Visual Studio 2012/" "UT/" "UserJS/" "Turtleneck Hub/" "TNH/" "TI-Nspire CX/" "TI-Nspire/" "Technical/" "Team16_ System Design Report.pdf" "SQA Manual.pdf" "Scanned Documents/" "Other/" "Optimizer Pro/" "NQA Manual.pdf" "Notes/" "National Instruments/" "MyTIData/" "Energia/" "eagle/" "DVDFab9/" "Downloaded Installations/" "DipTrace/" "desktop.ini" "DesignSoft/" "CreativeDetectors/" "Calibre Library/" "Bluetooth Exchange Folder/" "BlackBerry/" "Baldur's Gate - Enhanced Edition/" "AutoHotkey.ahk" "Adobe/" "3d/" "../" "./")
+
+ ("/mnt/windows/" (22191 60726 80699 500000) "Program Files/" "PerfLogs/" "pagefile.sys" "Packages/" "National Instruments Downloads/" "MyDownloads/" "MSOCache/" "Intel/" "install.res.3082.dll" "install.res.2052.dll" "install.res.1042.dll" "Users/" "Program Files (x86)/" "install.res.1041.dll" "etc/" "install.res.1040.dll" "install.res.1036.dll" "install.res.1033.dll" "install.res.1031.dll" "install.res.1028.dll" "install.ini" "install.exe" "Ideation Systems/" "home/" "hiberfil.sys" "globdata.ini" "eula.3082.txt" "eula.2052.txt" "eula.1042.txt" "eula.1041.txt" "eula.1040.txt" "eula.1036.txt" "eula.1033.txt" "eula.1031.txt" "eula.1028.txt" "Windows/" "VC_RED.MSI" "VC_RED.cab" "vcredist.bmp" "ubuntu-14.10-desktop-i386.iso.lili-download" "tidcs/" "ti/" "Texas Instruments/" "Temp/" "Tcl/" "System Volume Information/" "SWTOOLS/" "Riot Games/" "RetroCopy/" "Recovery/" "Python33/" "Python27/" "ProgramData/" "DRIVERS/" "Documents and Settings/" "Documents/" "cygwin/" "console.log" "Config.Msi/" "C28x/" "7c8b9e918fbe03d217058326d4/" "602beecc632fd94eeb/" "$Recycle.Bin/" "../" "./")
+
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/bin/" (22195 3750 708324 200000) "wheel" "python2.7" "python2" "python" "pip2.7" "pip2" "pip" "isympy" "f2py" "easy_install-2.7" "easy_install" "activate_this.py" "activate.fish" "activate.csh" "activate" "../" "./")
+
+ ("/mnt/windows/Users/Dany/Documents/GitHub/Python/AutoSchaum/env/" (22195 3750 709221 800000) "src/" "share/" "Scripts/" "pip-selfcheck.json" "local/" "lib/" "Lib/" "include/" "Include/" "bin/" "../" "./")
+
+ ("/home/dany/Documents/emacs scripts/harp-mode/" (22192 17023 965680 945000) "harp-mode.el" ".git/" "README.md" "harp-mode-test.el" "../" ".emacs.desktop.lock" "./" ".emacs.desktop")
+
+ ("/home/dany/Documents/emacs scripts/" (22182 57863 135046 949000) "harp-mode/" "../" "./")
+
+ ("/home/dany/org/" (22190 10290 982866 886000) "../" "./" "tic.org" "harp-mode.org")
+
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/game/" (22186 45093 489871 769000) "menus.clj" "ai.clj" "../" "input.clj" "./" "core.clj" "display.clj")
+
+ ("/home/dany/Documents/blig/octopress/" (22182 52117 514960 736000) ".gitignore" "CHANGELOG.markdown" "config.rb" "Gemfile.lock" ".sass-cache/" ".editorconfig" ".gitattributes" ".travis.yml" "README.markdown" ".slugignore" ".git/" "sass/" "_config.yml" "public/" "../" "_deploy/" "Gemfile" "./" "config.ru" ".pygments-cache/" "plugins/" "Rakefile" "source/" ".powrc" ".themes/")
+
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/" (22181 40016 605746 808000) "src/" "README.md" "../" ".nrepl-port" "./" "project.clj" "resources/" "dev-resources/" "target/" "test/")
+
+ ("/home/dany/Documents/8th Light Task/coding_challenges/clojure/src/" (22176 11328 417639 235000) "game/" "../" "./")
+
+ ("/home/dany/Documents/8th Light Task/coding_challenges/" (22176 11328 417639 235000) "cpp/" ".git/" "clojure/" "README.md" "../" "java/" "./" "javascript/" "ruby/")
+
+ ("/home/dany/Documents/8th Light Task/" (22176 11316 385639 152000) "coding_challenges/" "../" "./")
+
+ ("/home/dany/Documents/Factual Test/word-search/src/word_search/" (22170 56928 350522 765000) "../" "./" "core.clj")
+
+ ("/home/dany/bin/" (22168 13230 89307 470000) "dbus_var.sh" "pdb.bak" "bat_warn.sh" "XnRetro/" "time.sh" "bat.sh" "../" "xnretro" "./" "lein" "smartgit/" "lein.sh" "clion")
+
+ ("/mnt/windows/Users/Dany/AppData/Roaming/org/" (22165 50591 947981 700000) "job-qs.org" "../" "./")
+
+ ("/home/dany/.emacs.d/elpa/" (22168 26987 941227 744000) "s-20140714.707/" "load-relative-1.2/" "clojure-mode-20141120.1410/" "exec-path-from-shell-20141212.846/" "async-20160108.1249/" "tagedit-20140618.521/" "helm-core-20160113.2347/" "ggtags-0.8.11/" "ctags-20110911.304/" "test-simple-20151110.1943/" "gist-20151228.1941/" "dash-20140717.547/" "epl-20140620.218/" "pcache-20151109.639/" "git-commit-mode-20140605.520/" "markdown-mode-2.0/" "projectile-20140716.416/" "archives/" "queue-0.1.1/" "cider-readme.txt" "smex-20140425.1314/" "magit-20140720.358/" "ggtags-0.8.11.signed" "cl-lib-0.5/" "cider-20141120.1746/" "../" "gist-1.3.1/" "rainbow-delimiters-20140713.1131/" "load-relative-1.2.signed" "realgud-20160110.702/" "clojure-mode-extra-font-locking-20140613.839/" "ido-ubiquitous-20140526.1306/" "paredit-20140128.1248/" "./" "pdb-mode-20150128.951/" "autopair-20140825.427/" "gnupg/" "pkg-info-20140610.630/" "gh-20151216.746/" "git-rebase-mode-20140605.520/" "logito-20120225.1255/" "loc-changes-20150302.848/" "list-utils-20140508.1341/" "helm-20160114.723/")
+
+ ("/tmp/" (22168 23134 261300 881000) ".org.chromium.Chromium.z2yBR4/" "qipc_systemsem_homedanyconfigcopyqcopyqs78f9090d0cb11706a8722adfa5aca19ce8e4da9e" ".X0-lock" ".ICE-unix/" "jre-8u65-linux-x64.tar.gz" "ssh-swwjlRoznjiu/" "orbit-dany/" "jre-8u66-linux-x64.tar.gz" "serverauth.QdFcZK0n1N" ".Test-unix/" "qipc_sharedmemory_homedanyconfigcopyqcopyqs78f9090d0cb11706a8722adfa5aca19ce8e4da9e" ".pcmanfm-socket--0-dany" "qipc_systemsem_homedanyconfigcopyqcopyqm5e8a845d0726c8a8b6d943965f255453c4173eb0" "../" ".X11-unix/" "hsperfdata_dany/" "./" "gravity_simulation_in_c++_with_opengl.cpp" ".font-unix/" "clion-1.2.4.tar.gz" ".XIM-unix/" "qipc_sharedmemory_homedanyconfigcopyqcopyqm5e8a845d0726c8a8b6d943965f255453c4173eb0")
+
+ ("/mnt/windows/Users/Dany/AppData/Roaming/" (22161 49723 224603 400000) "Electronics 2000/" "e-academy Inc/" "DVDFab9/" "dvdcss/" "Dropbox/" "Ditto/" "Digilent/" "chc.4875E02D9FB21EE389F73B8D1702B320485DF8CE.1/" "chc/" "Canon/" "calibre/" "CadSoft/" "Brother/" "bak.emacs" "Avant Downloader/" "Audacity/" "Macromedia/" "LyX2.1/" "LTspiceIV.ini" "LOVE/" "LolClient/" "LightTable/" "KDE/" "jupyter/" "JKI/" "JetBrains/" "Intel/" "inkscape/" "ImgBurn/" "puush/" "Process Hacker 2/" "org/" "Opera Software/" "Opera Mail/" "Opera/" "Notepad++/" "Nordic Semiconductors ASA/" "NexonLauncher/" "Nettalk/" "NCH Software/" "National Instruments/" "MusE/" "Mozilla/" "Sylpheed/" "Python/" "mIRC/" "Image-Line/" "Atom/" "Identities/" "IAR Embedded Workbench/" "gtk-2.0/" "Greenshot/" "gnupg/" "GitHub/" "Foxit Software/" "FlowStone/" "FileZilla/" "Eric4/" "Energia/" "Xidicone/" "www.shadowexplorer.com/" "wpstate.ini" "WPPm2Com.txt" "WPPM2.ini" "winscp.rnd" "WinRAR/" "Wings3D/" "vlc/" "VirtuaWin/" "uTorrent/" "TortoiseSVN/" "TI-Nspire CX/" "TI-Nspire/" "Thunderbird/" "Texas Instruments, Inc/" "Texas Instruments/" "TeamViewer/" "SystemRequirementsLab/" "SylFilter/" "SumatraPDF/" "Subversion/" "Sublime Text 2/" "Solve Elec 2.5 Prefs" "Skype/" "SketchUp/" "SHAPE/" "Roni Music/" "Riot Games/" "Rim.DesktopHelper.Exception.log" "Rim.Desktop.HttpServerSetup.log" "Rim.Desktop.Exception.log" "ResourceCentral.E6E1B28A311BC518DB6C6883EA3757FDE0E90ADC.1/" "Research In Motion/" "Real/" "quassel-irc.org/" "QTTabBar/" "MiKTeX/" "Microsoft/" "Microchip/" "MediaMonkey/" "Media Center Programs/" "MCHP/" "MathWorks/" "MathematicaPlayer/" "Mathematica/" "Mael/" "Macrovision/" "Apple Computer/" "Adobe/" "Acronis/" "9950/" ".spectrumdigital/" ".spacemacs" ".mplab_ide/" ".kde/" ".history" ".gitconfig" ".erc/" ".emacs~" ".emacs.d_bakmine/" ".emacs.d_bak/" ".emacs.d/" "../" "./")
+
+ ("/mnt/windows/Users/Dany/AppData/" (20699 3155 211208 300000) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("/mnt/windows/Users/Dany/" (22152 12833 796769 300000) "_viminfo" "_netrc" "_eric4/" "workspace/" "VirtualBox VMs/" "vimfiles/" "Videos/" "Untitled.ipynb" "Tracing/" "tmp/" "ti/" "PrintHood/" "pip/" "Pictures/" "oasys.log" "ntuser.ini" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TM.blf" "Documents/" "Desktop/" "CProgram" "Cookies/" "Contacts/" "bin/" "Application Data/" "AppData/" ".VirtualBox/" ".vim/" ".TI-trace/" ".TI/" ".thumbnails/" ".swt/" ".ssh/" ".spyder2/" ".spf13-vim-3/" "Local Settings/" "Links/" "librosa/" "java2.log" "java1.log" "java0.log.lck" "java0.log" "ipe_log.txt" "ipe.properties" "ipe.key" "IPE Reports/" "ibt_application.log" "ibtsa.log" "hey.txt" "Google Drive/" "MPLABXLog.xml.19.lck" "MPLABXLog.xml.19" "MPLABXLog.xml.18" "MPLABXLog.xml.17" "MPLABXLog.xml.16" "MPLABXLog.xml.15.lck" "MPLABXLog.xml.15" "MPLABXLog.xml.14" "MPLABXLog.xml.13.lck" "MPLABXLog.xml.13" "MPLABXLog.xml.12.lck" "MPLABXLog.xml.12" "MPLABXLog.xml.11" "MPLABXLog.xml.10" "MPLABXLog.xml" "mercurial.ini" "MPLABXLog.xml.lck" "MPLABXLog.xml.9" "MPLABXLog.xml.8.lck" "MPLABXLog.xml.8" "MPLABXLog.xml.7" "MPLABXLog.xml.6" "MPLABXLog.xml.5" "MPLABXLog.xml.4" "MPLABXLog.xml.3" "MPLABXLog.xml.21.lck" "MPLABXLog.xml.21" "MPLABXLog.xml.20.lck" "MPLABXLog.xml.20" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "ntuser.dat" "notebook.zim" "NetHood/" "My Documents/" "Music/" "this.txt" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "MPLABXLog.xml.2" "MPLABXLog.xml.1" "Downloads/" ".PyCharm40/" "ganttproject.log.lck" "ganttproject.log.2" "ganttproject.log.1" "ganttproject.log" "Files" "Favorites/" "emacs/" "Dropbox/" "text.txt" "Templates/" "temp/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "python-getting-started/" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TM.blf" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TM.blf" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" ".nordicsemiconductor/" ".netbeans/" ".mplabcomm/" ".matplotlib/" ".MakeMKV/" ".m2/" ".local/" ".lesshst" ".lein/" ".jupyter/" ".JavaPowUpload.properties" ".ipython/" ".ipynb_checkpoints/" ".idlerc/" ".IdeaIC14/" ".heroku/" ".gitconfig" ".gimp-2.8/" ".ganttproject" ".emacs.d/" ".eclipse/" ".dia/" ".config/" ".cache/" ".bluefish/" ".bash_history" ".bashrc" ".atom/" ".android/" "(x86)Vim_vimrc" "../" "./")
+
+ ("/mnt/windows/Users/" (20749 44162 988300 700000) "user/" "Public/" "Guest/" "desktop.ini" "Default User/" "Default/" "Dany/" "All Users/" "../" "./")
+
+ ("/mnt/" (22161 65393 395392 743000) "../" "./" "windows/")
+
+ ("/home/dany/Scratch Code/" (22162 54805 529398 933000) "partition.py" "../" "./")
+
+ ("/home/" (22161 57784 700156 409000) "../" "./" "dany/")
+
+ ("/home/dany/Templates/" (22161 58785 115293 585000) "../" "./")
+
+ ("c:/Users/Dany/tmp/" (22161 13323 0 0) "tmp.eww" "tf-idf/" "settings/" "rotation.py" "quine1.clj~" "quine1.clj" "quicksort.pyc" "quicksort.py" "qsort.py~" "qsort.py" "qsort.clj~" "qsort.clj" "mergesort.py" "mergesort.clj" "krets/" "Flashing the LED/" "data/" "clojure-datascience/" "clojure-data-science/" "clojure/" "ch2-inference/" "ch1-introduction/" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/.emacs.d/" (22158 33634 0 0) "var/" "themes/" "README.md" "places" "init.el" "ido.last" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/.emacs.d/customizations/" (22158 26838 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/org/" (22155 13402 0 0) "job-qs.org" "../" "./")
+
+ ("c:/Users/" (20749 44162 0 0) "user/" "Public/" "Guest/" "desktop.ini" "Default User/" "Default/" "Dany/" "All Users/" "../" "./")
+
+ ("c:/Users/Dany/" (22152 12833 0 0) "_viminfo" "_netrc" "_eric4/" "workspace/" "VirtualBox VMs/" "vimfiles/" "Videos/" "Untitled.ipynb" "Tracing/" "tmp/" "ti/" "this.txt" "text.txt" "Templates/" "temp/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "python-getting-started/" "PrintHood/" "pip/" "Pictures/" "oasys.log" "ntuser.ini" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TM.blf" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TM.blf" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TM.blf" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "ntuser.dat" "notebook.zim" "NetHood/" "My Documents/" "Music/" "MPLABXLog.xml.lck" "MPLABXLog.xml.9" "MPLABXLog.xml.8.lck" "MPLABXLog.xml.8" "MPLABXLog.xml.7" "MPLABXLog.xml.6" "MPLABXLog.xml.5" "MPLABXLog.xml.4" "MPLABXLog.xml.3" "MPLABXLog.xml.21.lck" "MPLABXLog.xml.21" "MPLABXLog.xml.20.lck" "MPLABXLog.xml.20" "MPLABXLog.xml.2" "MPLABXLog.xml.19.lck" "MPLABXLog.xml.19" "MPLABXLog.xml.18" "MPLABXLog.xml.17" "MPLABXLog.xml.16" "MPLABXLog.xml.15.lck" "MPLABXLog.xml.15" "MPLABXLog.xml.14" "MPLABXLog.xml.13.lck" "MPLABXLog.xml.13" "MPLABXLog.xml.12.lck" "MPLABXLog.xml.12" "MPLABXLog.xml.11" "MPLABXLog.xml.10" "MPLABXLog.xml.1" "MPLABXLog.xml" "mercurial.ini" "Local Settings/" "Links/" "librosa/" "java2.log" "java1.log" "java0.log.lck" "java0.log" "ipe_log.txt" "ipe.properties" "ipe.key" "IPE Reports/" "ibt_application.log" "ibtsa.log" "hey.txt" "Google Drive/" "ganttproject.log.lck" "ganttproject.log.2" "ganttproject.log.1" "ganttproject.log" "Files" "Favorites/" "emacs/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "CProgram" "Cookies/" "Contacts/" "bin/" "Application Data/" "AppData/" ".VirtualBox/" ".vim/" ".TI-trace/" ".TI/" ".thumbnails/" ".swt/" ".ssh/" ".spyder2/" ".spf13-vim-3/" ".PyCharm40/" ".nordicsemiconductor/" ".netbeans/" ".mplabcomm/" ".matplotlib/" ".MakeMKV/" ".m2/" ".local/" ".lesshst" ".lein/" ".jupyter/" ".JavaPowUpload.properties" ".ipython/" ".ipynb_checkpoints/" ".idlerc/" ".IdeaIC14/" ".heroku/" ".gitconfig" ".gimp-2.8/" ".ganttproject" ".emacs.d/" ".eclipse/" ".dia/" ".config/" ".cache/" ".bluefish/" ".bash_history" ".bashrc" ".atom/" ".android/" "(x86)Vim_vimrc" "../" "./")
+
+ ("c:/Users/Dany/emacs/" (22116 13740 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/" (22155 6021 0 0) "Xidicone/" "www.shadowexplorer.com/" "wpstate.ini" "WPPm2Com.txt" "WPPM2.ini" "winscp.rnd" "WinRAR/" "Wings3D/" "vlc/" "VirtuaWin/" "uTorrent/" "TortoiseSVN/" "TI-Nspire CX/" "TI-Nspire/" "Thunderbird/" "Texas Instruments, Inc/" "Texas Instruments/" "TeamViewer/" "SystemRequirementsLab/" "Sylpheed/" "SylFilter/" "SumatraPDF/" "Subversion/" "Sublime Text 2/" "Solve Elec 2.5 Prefs" "Skype/" "SketchUp/" "SHAPE/" "Roni Music/" "Riot Games/" "Rim.DesktopHelper.Exception.log" "Rim.Desktop.HttpServerSetup.log" "Rim.Desktop.Exception.log" "ResourceCentral.E6E1B28A311BC518DB6C6883EA3757FDE0E90ADC.1/" "Research In Motion/" "Real/" "quassel-irc.org/" "QTTabBar/" "Python/" "puush/" "Process Hacker 2/" "org/" "Opera Software/" "Opera Mail/" "Opera/" "Notepad++/" "Nordic Semiconductors ASA/" "NexonLauncher/" "Nettalk/" "NCH Software/" "National Instruments/" "MusE/" "Mozilla/" "mIRC/" "MiKTeX/" "Microsoft/" "Microchip/" "MediaMonkey/" "Media Center Programs/" "MCHP/" "MathWorks/" "MathematicaPlayer/" "Mathematica/" "Mael/" "Macrovision/" "Macromedia/" "LyX2.1/" "LTspiceIV.ini" "LOVE/" "LolClient/" "LightTable/" "KDE/" "jupyter/" "JKI/" "JetBrains/" "Intel/" "inkscape/" "ImgBurn/" "Image-Line/" "Identities/" "IAR Embedded Workbench/" "gtk-2.0/" "Greenshot/" "GitHub/" "Foxit Software/" "FlowStone/" "FileZilla/" "Eric4/" "Energia/" "Electronics 2000/" "e-academy Inc/" "DVDFab9/" "dvdcss/" "Dropbox/" "Ditto/" "Digilent/" "chc.4875E02D9FB21EE389F73B8D1702B320485DF8CE.1/" "chc/" "Canon/" "calibre/" "CadSoft/" "Brother/" "bak.emacs" "Avant Downloader/" "Audacity/" "Atom/" "Apple Computer/" "Adobe/" "9950/" ".spectrumdigital/" ".spacemacs" ".mplab_ide/" ".kde/" ".history" ".gitconfig" ".erc/" ".emacs~" ".emacs.d_bakmine/" ".emacs.d_bak/" ".emacs.d/" "../" "./")
+
+ ("c:/Users/Dany/emacs/bin/" (22151 54475 0 0) "zlib1.dll" "runemacs.exe" "regex2.dll" "libXpm.dll" "libtasn1-6.dll" "libnettle-4-7.dll" "libintl-8.dll" "libiconv-2.dll" "libhogweed-2-5.dll" "libgnutls-openssl-27.dll" "libgnutls-28.dll" "libgmp-10.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-fireplace/" "emacs-24.5.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

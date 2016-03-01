@@ -1,0 +1,130 @@
+((("So" .
+   [1 0])
+  ("R" .
+   [1])
+  ("solver" .
+   [1 0 0 0 0 0])
+  ("assert" .
+   [1 0 0 0 0 2])
+  ("Circuit" .
+   [0 0 0 1 0 0 0])
+  ("a" .
+   [2])
+  ("append" .
+   [1 0 0 0 0 0])
+  ("circuit" .
+   [6 0 0 0 0 0 0])
+  ("back-button-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("key-chord-define-global" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("global-set-key" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("eldoc-mode" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("flycheck-virtualenv" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("require" .
+   [1 0 0 0 0 0 0])
+  ("show" .
+   [1 0 0 0])
+  ("plt" .
+   [1 0 0])
+  ("s" .
+   [2])
+  ("exit" .
+   [1 0 0 0])
+  ("not" .
+   [0 2 0])
+  ("path" .
+   [3 0 0 0])
+  ("exists" .
+   [0 0 1 0 0 0])
+  ("pungi:setup-jedi" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cursors" .
+   [1 0 0 0 0 0 0])
+  ("Cursor" .
+   [1 0 0 0 0 0])
+  ("my_circuit" .
+   [7 4 1 0 0 1 2 0 0 4])
+  ("nodedict" .
+   [2 0 0 0 1 0 0 7])
+  ("step_to" .
+   [3 0 0 0 0 0 1])
+  ("my_cursor" .
+   [5 0 1 0 0 0 1 0 2])
+  ("assertEqual" .
+   [10 0 0 0 0 0 0 0 0 0 1])
+  ("component_list" .
+   [0 0 0 0 0 2 0 0 0 1 0 0 0 2])
+  ("last_node_seen" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("create_nodes" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("create_supernodes" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("sub_super_nodes" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("identify_nontrivial_nonsuper_nodes" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("my_" .
+   [0 0 1])
+  ("create" .
+   [2 0 0 0 0 0])
+  ("TestCase" .
+   [1 0 0 0 0 0 0 0])
+  ("setUp" .
+   [1 0 0 0 0])
+  ("Node" .
+   [1 0 0 0])
+  ("len" .
+   [1 0 0])
+  ("dir" .
+   [1 0 0])
+  ("__dict__" .
+   [1 0 0 0 0 0 0 0])
+  ("import" .
+   [1 0 0 0 0 0])
+  ("pprint" .
+   [2 0 0 0 0 1])
+  ("unseen" .
+   [3 0 0 0 0 0])
+  ("cursor" .
+   [2 0 0 0 0 0])
+  ("unseen_connected" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2])
+  ("refdes" .
+   [4 0 0 0 0 0])
+  ("unseen_connect" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("step" .
+   [1 0 0 0])
+  ("no" .
+   [1 0])
+  ("components" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("to" .
+   [1 0])
+  ("Component" .
+   [0 0 0 0 0 0 0 0 1])
+  ("components_to_refdesigs" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("compoents_to_refdesigs" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("step_along" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("loc" .
+   [1 0 0])
+  ("pos" .
+   [1 0 0])
+  ("location" .
+   [0 0 0 0 2 0 0 0])
+  ("nicely" .
+   [0 0 0 0 1 0])
+  ("first_seen" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("second_seen" .
+   [0 0 0 0 0 0 0 1 0 0 0])))

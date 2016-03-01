@@ -1,0 +1,13 @@
+(defun nose-virtualev-test-all ()
+  (interactive)
+  (let ((nose-global-name
+         (format 
+          "~/.virtualenvs/%s/bin/nosetests"
+          (car 
+           (last 
+            (delete 
+             ""
+             (split-string
+              (nose-find-project-root)
+              "/")))))))
+    (nosetests-all)))

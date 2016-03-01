@@ -1,0 +1,67 @@
+(ns game.menus)
+
+(defrecord Menu [page items])
+
+(defrecord MenuItem [text x y selected?])
+
+(defn dist
+  "Calculate the displacement from item1 to item2 with respect to a direction"
+  [dir item1 item2]
+  (case dir
+    :up (- (:y item1) (:y item2))
+    :down (- (:y item2) (:y item1))
+    :left (- (:x item1) (:x item2))
+    :right (- (:x item2) (:x item1))))
+
+(defn select-item
+  "Update the game data with a new menu item selection"
+  [game item]
+  (let [old-items (-> game :menu :items)]
+    (assoc-in game [:menu :items] (map #(if (= % item)
+                                           (assoc % :selected? true)
+                                           (assoc % :selected? false))
+                                       old-items))))
+
+(defn selected-item
+  "Return the item which is currently under the cursor"
+  [game]
+  (let [items (get-in game [:menu :items])]
+    (some #(when (:selected? %) %) items)))
+
+(defn cursor-motion
+  "Move the cursor towards the closest menu item in the given direction"
+  [game dir]
+  (let [items (-> game :menu :items)
+        cur-pos (selected-item game)
+        item-options (map #(vector % (dist dir cur-pos %))
+                          (filter #(> (dist dir cur-pos %) 0)
+                                  (filter #(not= cur-pos %) items)))]
+    (if (not-empty item-options)
+      (let [new-selection (first (apply min-key second item-options))]
+         (select-item game new-selection))
+      game)))
+
+(defmulti enter-menu
+  "Perform the operation associated with pressing :enter while in a given menu"
+  (fn [game] (-> game :menu :page)))
+
+(defn init-board-menu [])
+
+(defmethod enter-menu :main
+  [game]
+  (assoc game :mode (:text (select-item game (selected-item game))) :menu (init-board-menu game)))
+
+(defn main-menu-items
+  "Create a sequence of items in the main menu"
+  []
+  (map map->MenuItem [{:text "HvH" :x 0 :y 0 :selected? true}
+                      {:text "HvC" :x 0 :y 10 :selected? false}
+                      {:text "CvC" :x 0 :y 20 :selected? false}]))
+
+(defn init-main-menu
+  "Initialize the main menu"
+  []
+  (map->Menu {:page :main :items (main-menu-items)}))
+
+(defn init-game-menu
+  [])

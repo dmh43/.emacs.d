@@ -1,0 +1,55 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Dany/AppData/Roaming/.emacs.d/" . "customizations/")
+ ("c:/Users/Dany/" . "tmp/")
+ ("c:/Users/" . "Dany/")
+ ("c:/Users/Dany/AppData/Roaming/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Dany/tmp/"
+ "c:/Users/Dany/AppData/Roaming/.emacs.d/"
+ "c:/Users/Dany/AppData/Roaming/.emacs.d/customizations/"
+ "c:/Users/Dany/AppData/Roaming/org/"
+ "c:/Users/Dany/AppData/Roaming/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "rotation.py"
+ "mergesort.py"
+ "init.el"
+ "editing.el"
+ "job-qs.org"
+ "orgtutorial.org"
+ "qsort.clj"
+ "mergesort.clj"
+ "bak.emacs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Dany/AppData/Roaming/.emacs.d/" (22158 33634 0 0) "var/" "themes/" "README.md" "places" "init.el" "ido.last" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" "../" "./")
+
+ ("c:/Users/Dany/tmp/" (22158 27573 0 0) "tmp.eww" "tf-idf/" "settings/" "quine1.clj~" "quine1.clj" "qsort.py~" "qsort.py" "qsort.clj~" "qsort.clj" "mergesort.py" "mergesort.clj" "krets/" "Flashing the LED/" "data/" "clojure-datascience/" "clojure-data-science/" "clojure/" "ch2-inference/" "ch1-introduction/" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/.emacs.d/customizations/" (22158 26838 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/org/" (22155 13402 0 0) "job-qs.org" "../" "./")
+
+ ("c:/Users/" (20749 44162 0 0) "user/" "Public/" "Guest/" "desktop.ini" "Default User/" "Default/" "Dany/" "All Users/" "../" "./")
+
+ ("c:/Users/Dany/" (22152 12833 0 0) "_viminfo" "_netrc" "_eric4/" "workspace/" "VirtualBox VMs/" "vimfiles/" "Videos/" "Untitled.ipynb" "Tracing/" "tmp/" "ti/" "this.txt" "text.txt" "Templates/" "temp/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Roaming/" "Recent/" "python-getting-started/" "PrintHood/" "pip/" "Pictures/" "oasys.log" "ntuser.ini" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{799048d7-153c-11e5-90f0-0021cc66914a}.TM.blf" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{33a32733-7bba-11e2-85a4-0021cc66914a}.TM.blf" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TMContainer00000000000000000002.regtrans-ms" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TMContainer00000000000000000001.regtrans-ms" "ntuser.dat{067db767-0d6b-11e5-b9da-0021cc66914a}.TM.blf" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "ntuser.dat" "notebook.zim" "NetHood/" "My Documents/" "Music/" "MPLABXLog.xml.lck" "MPLABXLog.xml.9" "MPLABXLog.xml.8.lck" "MPLABXLog.xml.8" "MPLABXLog.xml.7" "MPLABXLog.xml.6" "MPLABXLog.xml.5" "MPLABXLog.xml.4" "MPLABXLog.xml.3" "MPLABXLog.xml.21.lck" "MPLABXLog.xml.21" "MPLABXLog.xml.20.lck" "MPLABXLog.xml.20" "MPLABXLog.xml.2" "MPLABXLog.xml.19.lck" "MPLABXLog.xml.19" "MPLABXLog.xml.18" "MPLABXLog.xml.17" "MPLABXLog.xml.16" "MPLABXLog.xml.15.lck" "MPLABXLog.xml.15" "MPLABXLog.xml.14" "MPLABXLog.xml.13.lck" "MPLABXLog.xml.13" "MPLABXLog.xml.12.lck" "MPLABXLog.xml.12" "MPLABXLog.xml.11" "MPLABXLog.xml.10" "MPLABXLog.xml.1" "MPLABXLog.xml" "mercurial.ini" "Local Settings/" "Links/" "librosa/" "java2.log" "java1.log" "java0.log.lck" "java0.log" "ipe_log.txt" "ipe.properties" "ipe.key" "IPE Reports/" "ibt_application.log" "ibtsa.log" "hey.txt" "Google Drive/" "ganttproject.log.lck" "ganttproject.log.2" "ganttproject.log.1" "ganttproject.log" "Files" "Favorites/" "emacs/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "CProgram" "Cookies/" "Contacts/" "bin/" "Application Data/" "AppData/" ".VirtualBox/" ".vim/" ".TI-trace/" ".TI/" ".thumbnails/" ".swt/" ".ssh/" ".spyder2/" ".spf13-vim-3/" ".PyCharm40/" ".nordicsemiconductor/" ".netbeans/" ".mplabcomm/" ".matplotlib/" ".MakeMKV/" ".m2/" ".local/" ".lesshst" ".lein/" ".jupyter/" ".JavaPowUpload.properties" ".ipython/" ".ipynb_checkpoints/" ".idlerc/" ".IdeaIC14/" ".heroku/" ".gitconfig" ".gimp-2.8/" ".ganttproject" ".emacs.d/" ".eclipse/" ".dia/" ".config/" ".cache/" ".bluefish/" ".bash_history" ".bashrc" ".atom/" ".android/" "(x86)Vim_vimrc" "../" "./")
+
+ ("c:/Users/Dany/emacs/" (22116 13740 0 0) "var/" "share/" "libexec/" "bin/" "../" "./")
+
+ ("c:/Users/Dany/AppData/Roaming/" (22155 6021 0 0) "Xidicone/" "www.shadowexplorer.com/" "wpstate.ini" "WPPm2Com.txt" "WPPM2.ini" "winscp.rnd" "WinRAR/" "Wings3D/" "vlc/" "VirtuaWin/" "uTorrent/" "TortoiseSVN/" "TI-Nspire CX/" "TI-Nspire/" "Thunderbird/" "Texas Instruments, Inc/" "Texas Instruments/" "TeamViewer/" "SystemRequirementsLab/" "Sylpheed/" "SylFilter/" "SumatraPDF/" "Subversion/" "Sublime Text 2/" "Solve Elec 2.5 Prefs" "Skype/" "SketchUp/" "SHAPE/" "Roni Music/" "Riot Games/" "Rim.DesktopHelper.Exception.log" "Rim.Desktop.HttpServerSetup.log" "Rim.Desktop.Exception.log" "ResourceCentral.E6E1B28A311BC518DB6C6883EA3757FDE0E90ADC.1/" "Research In Motion/" "Real/" "quassel-irc.org/" "QTTabBar/" "Python/" "puush/" "Process Hacker 2/" "org/" "Opera Software/" "Opera Mail/" "Opera/" "Notepad++/" "Nordic Semiconductors ASA/" "NexonLauncher/" "Nettalk/" "NCH Software/" "National Instruments/" "MusE/" "Mozilla/" "mIRC/" "MiKTeX/" "Microsoft/" "Microchip/" "MediaMonkey/" "Media Center Programs/" "MCHP/" "MathWorks/" "MathematicaPlayer/" "Mathematica/" "Mael/" "Macrovision/" "Macromedia/" "LyX2.1/" "LTspiceIV.ini" "LOVE/" "LolClient/" "LightTable/" "KDE/" "jupyter/" "JKI/" "JetBrains/" "Intel/" "inkscape/" "ImgBurn/" "Image-Line/" "Identities/" "IAR Embedded Workbench/" "gtk-2.0/" "Greenshot/" "GitHub/" "Foxit Software/" "FlowStone/" "FileZilla/" "Eric4/" "Energia/" "Electronics 2000/" "e-academy Inc/" "DVDFab9/" "dvdcss/" "Dropbox/" "Ditto/" "Digilent/" "chc.4875E02D9FB21EE389F73B8D1702B320485DF8CE.1/" "chc/" "Canon/" "calibre/" "CadSoft/" "Brother/" "bak.emacs" "Avant Downloader/" "Audacity/" "Atom/" "Apple Computer/" "Adobe/" "9950/" ".spectrumdigital/" ".spacemacs" ".mplab_ide/" ".kde/" ".history" ".gitconfig" ".erc/" ".emacs~" ".emacs.d_bakmine/" ".emacs.d_bak/" ".emacs.d/" "../" "./")
+
+ ("c:/Users/Dany/emacs/bin/" (22151 54475 0 0) "zlib1.dll" "runemacs.exe" "regex2.dll" "libXpm.dll" "libtasn1-6.dll" "libnettle-4-7.dll" "libintl-8.dll" "libiconv-2.dll" "libhogweed-2-5.dll" "libgnutls-openssl-27.dll" "libgnutls-28.dll" "libgmp-10.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-fireplace/" "emacs-24.5.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

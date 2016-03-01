@@ -1,0 +1,9 @@
+
+init.el,235
+(defvar my-packages50,1956
+(defun next-other-buffer 153,4904
+(defun previous-other-buffer 158,5014
+(defun cpp-init 206,7110
+(defun show-fly-err-at-point 268,9176
+(define-key global-map 292,10000
+(define-key global-map 293,10048

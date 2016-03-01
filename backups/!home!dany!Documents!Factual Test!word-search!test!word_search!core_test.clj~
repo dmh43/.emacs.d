@@ -1,0 +1,55 @@
+;; TODO revise this:
+;; A Trie is a map containing at least the key :end-val.
+;; If the trie is non-empty, it also contains keys which refer to
+;; each section of the partitioned data stored in the trie. In the
+;; case of strings, this would be a character (eg. \a, \b, \c...)
+;; but we can use keywords for faster lookup
+
+;; The value of each data-partition key is another map, a node of the trie,
+;; containing the next set of partitioned data as well as
+;; an :end-val field which indicates that the key refering to 
+;; that map is the end of a value stored in the trie.
+
+;; example:
+;; Given an empty trie
+;; {:end-val true}
+
+;; Adding the word 'as'
+;; {:a {:s {:end-val true}}}
+
+;; Adding the word 'at':
+;; {:a {:s {:end-val true} :t {:end-val true}}}
+
+;; This could be nicely wrapped with a record
+
+(ns word-search.core-test
+  (:require [clojure.test :refer :all]
+            [word-search.core :refer :all]))
+
+(deftest trie-api
+  (testing "Equality"
+    (is (=
+         {:a {:s {:end-val true}}}
+         {:a {:s {:end-val true}}})))
+  (testing "Cons element"
+    (is (=       
+         {:a {:s {:end-val true}}}
+         (to-trie ["as"])))
+    (is (=
+         {:a {:end-val true}}
+         (cons-trie {} "a"))))
+  (testing "Lookup"
+    (is (false?
+         (in-trie? {} "hello")))
+    (is (true?
+         (in-trie? {:a {:end-val true}} "a")))
+    (is (true?
+         (in-trie? {:a {:s {:end-val true}}} "as")))
+    (is (false?
+         (in-trie? {:a {:s {:end-val true}}} "a")))
+    (is (false?
+         (in-trie? {:a {:s {:end-val true}}} "ask")))
+    (is (true?
+         (in-trie? {:a {:s {:end-val true :k {:end-val true}}}} "as")))
+    (is (true?
+         (in-trie? {:a {:s {:end-val true :k {:end-val true}}}} "ask")))))

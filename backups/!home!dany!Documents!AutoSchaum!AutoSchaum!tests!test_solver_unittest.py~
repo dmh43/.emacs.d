@@ -1,0 +1,20 @@
+from nose2.compat import unittest
+from AutoSchaum.AutoSchaum import solver, circuit
+
+class SolverTest(unittest.TestCase):
+    def setUp(self):
+        self.my_circuit = circuit.Circuit("AutoSchaum/resources/my_circuit.crt")
+        self.my_circuit.create_nodes()
+        self.my_circuit.populate_nodes()
+        self.my_solver = solver.Solver(solver.SolutionStep(self.my_circuit))
+        
+    def tearDown(self):
+        pass
+    
+    def test_identify_voltage(self):
+
+
+        
+if __name__ == '__main__':
+    unittest.main()
+

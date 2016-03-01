@@ -1,0 +1,6 @@
+(require 'harp-mode)
+
+(ert-deftest enharmonics-convert ()
+  (should (= "Bb" (to-flat "A#")))
+  (should (= "A#" (to-sharp "A#")))
+  (should (= "A#" (to-sharp (to-flat "A#")))))

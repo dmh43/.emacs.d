@@ -1,0 +1,111 @@
+;; -*- coding: utf-8-unix -*-
+;; Automatically written history of CIDER REPL session
+;; Edit at your own risk
+
+("(-main)" "(in-ns game.grid)" "(in-ns game.core)" "(in-ns game)" "(in-ns game.core)" "(player-consec (assoc (init-game) :board (apply hash-map (interleave (range 9) (repeat \"X\")))) :P1)" "(n-steps 1 2 3)" "(n-steps)" "(ns)" "ns" "(player-consec (assoc (init-game) :board (apply hash-map (interleave (range 9) (repeat \"X\")))) :P1)" "(player-consec  (assoc (init-game) :board (apply hash-map (interleave (range 9) (repeat \"X\")))) :P1)" "(player-cosec  (assoc (init-game) :board (apply hash-map (interleave (range 9) (repeat \"X\")))) :P1)" "(assoc (init-game) :board (apply hash-map (interleave (range 9) (repeat \"X\"))))" "(map #(ns-unmap *ns* %) (keys (ns-interns *ns*)))" "(clear)" "(s/stop scr)" "(draw-game (cursor-motion game :up) scr)" "(draw-game (cursor-motion game :down) scr)" "(draw-game (cursor-motion game :up) scr)" "(cursor-motion game :up)" "(draw-game game scr)" "(s/start scr)" "(def scr (s/get-screen :swing))" "(def menu-item1
+  (->MenuItem \"item 1\" 10 5 false false))
+
+(def menu-item2
+  (->MenuItem \"item 2\" 2 3 true false))
+
+(def menu-item3
+  (->MenuItem \"item 2\" 5 4 true true))
+
+(def game (assoc-in (init-game) [:menu :items] (vector menu-item1 menu-item2 menu-item3)))" "game" "quit" "cider-nrepl.plugin" "cider.nrepl.middleware.apropos" "(cider.nrepl.middleware)" "(cider.nrepl.middleware.resource)" "(cider.nrepl.middleware.refresh)" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(-main)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(clojure.set/intersection #{1} #{2})" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(-main)" "(refresh)" "(clojure.set/difference #{1} #{2})" "(refresh)" "(clojure.set/difference)" "difference" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(first #{1})" "set" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(-main)" "(refresh)" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(-main)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(refresh)" "(-main)" "(refresh)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(-main)" "(require 'clojure.tools.namespace.repl)
+(clojure.tools.namespace.repl/refresh)" "(require '[clojure.tools.namespace.repl refresh])
+(clojure.tools.namespace.repl/refresh)" "(require 'clojure.tools.namespace.repl)
+(clojure.tools.namespace.repl/refresh)" "(use 'clojure.tools.namespace.repl)
+(clojure.tools.namespace.repl/refresh)" "(-main)" "(clojure.tools.namespace.repl/refresh)" "(refresh)" "(require 'clojure.tools.namespace.repl)
+(clojure.tools.namespace.repl/refresh)" "(println 3)" "(require 'clojure.tools.namespace.repl)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "reset" "reset!" "(use 'clojure.tools.namespace.repl)" "(use clojure.tools.namespace.repl)" "(require '[clojure.tools.namespace.repl :refer [refresh]])" "(init-game)" "user/reset" "reset" "(-main)" "#(. Math abs %)" "(partial (. Math abs ))" "(. Math abs )" "(partial . Math abs )" "(. Math abs -1 )" "(.abs Math 2)" "((.abs Math) 2)" "(-main)" "3" "d" "(print 3)" "(Math/abs -1)" "(println (Math/abs -1))" "(Math/abs -1)" "(-main)" "(map vector
+                (cycle (range 3))
+                 (reduce (fn [acc i] (apply conj acc (repeat 3 i))) []  (range 3)))" "(reduce (fn [acc i] (apply conj acc (repeat 3 i))) []  (range 3))" "(map vector
+                 (range 3)
+                 (reduce (fn [acc i] (apply conj acc (repeat 3 i))) []  (range 3)))" "(-main)" "(reduce (fn [acc i] (apply conj acc (repeat 3 i))) []  (range 3))" "(reduce (fn [acc i] (conj acc (repeat 3 i))) []  (range 3))" "(map (fn [i] (repeat 3 i)) (range 3))" "(map (fn [i] (repeat i 3)) (range 3))" "(let [gsize 3]
+    (vec (repeat gsize
+      (vec (repeat gsize 0)))))" "(let [3 (3 1)]
+    (vec (repeat 3
+      (vec (repeat 3 0)))))" "(reduce (fn [acc i] (conj acc (map (fn [j] (identity j)) (range 3)))) [] (take 9 (cycle (range 3))))" "(reduce (fn [acc i] (conj acc (map (fn [j] (identity j)) (range 3)))) (take 9 (cycle (range 3))))" "(map (fn [i] (map (fn [j] (identity j)) (range 3))) (take 9 (cycle (range 3))))" "(map #(identity %) (take 9 (cycle (range 3))))" "(doall (map #(constantly %) (take 9 (cycle (range 3)))))" "(map #(constantly %) (take 9 (cycle (range 3))))" "(map #(println %) (take 9 (cycle (range 3))))" "(map #(println %) (cycle (range 3)))" "(map #(%) (cycle (range 3)))" "(map #(range 3) (range 3))" "(map (range 3) (range 3))" "(range 3)" "(map (partial vector (range 2))
+                                   (range 2))" "(-main)" "(get (apply hash-map (interleave (range 9) (repeat :empty))) 0)" "(get 0 (apply hash-map (interleave (range 9) (repeat :empty))))" "(apply hash-map (interleave (range 9) (repeat :empty)))" "(-main)" "(s/get-size (s/get-screen))" "(-main)" "(vec (range 9))" "(range 9)" "(-main)" "(-main \"swing\")" "(-main)" "(keyword \"hi\")" "(keyword \":hi\")" "(-main)" "(:items (init-game))" "(selected-item (init-game))" "(-main)" "(apply hash-map [:x 0 :y 0])" "(hash-map [:x 0 :y 0])" "(-main)" "(min nil nil 2)" "(-main)" "(s/stop scr)" "(while true (s/move-cursor scr 10 10))" "(s/redraw scr)" "(s/redraw)" "(s/move-cursor scr 10 10)" "(s/start scr)" "(def scr (s/get-screen :swing))" "(-main)" "(map #(if (= % item) (assoc % :selected? true) (assoc % :selected? false)) someitems)" "(def someitems (for [x (range 3)] item))" "(for [x (range 3)] item)" "(= item item)" "item" "(def item (MenuItem. \"hi\" 0 0 false))" "(def item (MenuItem.))" "(defrecord MenuItem [text x y selected?])" "(MenuItem)" "(= 2 2)" "(print 3)" "(map pr [1 2 3 4])" "(map prn [1 2 3 4])" "(map println [1 2 3 4])" "(map println {1 2 3 4})" "(doall (map println {1 2 3 4}))" "(map println {1 2 3 4})" "(min-key first [1 2] [0 4])" "(min-key first [1 2] [3 4])" "(min-key first {1 2} {3 4})" "(min-key first {1 2 3 4})" "(get [1 2] 0)" "(get 0 [1 2])" "(0 [1 2])" "(println \"┣\")" "(println \"┃\")" "(-main)" "(first (do (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr) scr))))" "(s/redraw scr)" "(s/clear scr)" "(do (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr) scr)))" "(do (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr) scr)) scr)" "(do (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr))) scr)" "(do (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr))scr))" "(for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr))scr)" "(s/redraw scr)" "(s/clear scr)" "(for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr) scr))" "(def game (init-game))" "(def scr (init-display))" "(-main)" "(for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr)))" "(s/redraw scr)" "(s/clear scr)" "(for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr)))" "(s/clear scr)" "(for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (s/redraw scr)))" "(for [item (-> game :menu :items)] (do (draw-menu-item game scr item)))" "(do (map (partial draw-menu-item game scr) (-> game :menu :items) ) (Thread/sleep 1000) (s/redraw scr))" "(do (map (partial draw-menu-item game scr) (-> game :menu :items) ) (s/redraw scr))" "(s/redraw scr)" "(s/clear scr)" "(s/redraw scr)" "(map (partial draw-menu-item game scr) (-> game :menu :items) )" "(s/redraw scr)" "(s/clear scr)" "(s/redraw scr)" "(for [item (-> game :menu :items)] (draw-menu-item game scr item))" "(do  (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (Thread/sleep 100))) (Thread/sleep 100) (s/redraw scr))" "(s/redraw scr)" "(do  (for [item (-> game :menu :items)] (do (draw-menu-item game scr item) (Thread/sleep 100))) (s/redraw scr))" "(do  (for [item (-> game :menu :items)] (draw-menu-item game scr item)) (s/redraw scr))" "(def game (init-game))" "(def scr (init-display))" "(do  (for [item (-> game :menu :items)] (draw-menu-item game scr item)) (s/redraw scr))" "(-main)" "(Thread/sleep 1000)" "scr" "(inspect)" "(inspector)" "(inspect-table scr)" "(inspect-tree scr)" "(inspect scr)" "(use 'clojure.inspector)" "(use clojure.inspector)" "scr" "(for [item (-> game :menu :items)] (draw-menu-item game scr item))" "(s/redraw scr)" "(do  (for [item (-> game :menu :items)] (draw-menu-item game scr item)) (s/redraw scr))" "(s/redraw scr)" "(s/clear scr)" "scr" "(s/redraw scr)" "(for [item (-> game :menu :items)] (draw-menu-item game scr item))" "(draw-game game scr)" "(s/redraw scr)" "(draw-menu-item game scr (first (main-menu-items)))" "(s/redraw scr)" "(s/redraw screen)" "(draw-game game scr)" "(draw-game game screen)" "(game-input game scr)" "(def game (init-game))" "(def scr (init-display))" "(-main)" "(require '[lanterna.screen :as s])" "s" "d" "s" "(-main)" "(s/redraw my-game)" "(draw-menu-item (init-game) my-game (first (main-menu-items)))" "(s/redraw my-game)" "(s/put-string my-game 0 0 \"hi\")" "my-game" "(s/redraw my-game)" "(def my-game (draw-game (init-game) (init-display)))" "(draw-game (init-game) (init-display))" "(-main)" "(s/stop scr)" "(s/redraw scr)" "(apply s/put-string scr ((juxt :x :y :text) (map->MenuItem {:x 0 :y 0 :text \"hi\"})))" "(apply s/put-string screen ((juxt :x :y :text) (map->MenuItem {:x 0 :y 0 :text \"hi\"})))" "(apply s/put-string ((juxt :x :y :text) (map->MenuItem {:x 0 :y 0 :text \"hi\"})))" "((juxt :x :y :text) (map->MenuItem {:x 0 :y 0 :text \"hi\"}))" "((juxt :x :y :text) map->MenuItem {:x 0 :y 0 :text \"hi\"})" "(s/redraw scr)" "(s/move-cursor scr 10 10)" "(s/redraw scr)" "(s/move-cursor scr 1000 1000)" "(s/redraw scr)" "(s/put-string scr 0 0 \"hu\" {:bg :red})" "(s/put-string scr 0 0 \"hu\" {:styles :blinking})" "(s/redraw scr)" "(s/put-string scr 0 0 \"hu\" {:bg :white :fg :black})" "(s/redraw scr)" "(s/put-string scr 0 0 \"hu\" {:bg :white})" "(s/put-string scr 0 0 \"hu\" :bg :white)" "(s/start scr)" "(s/put-string scr 0 0 \"hu\")" "(def scr (s/get-screen :swing))" "(-main)" "(.pack frame)" "(def jc (JConsole))" "(import 'javax.swing.JPanel)
+(def panel (JPanel.))
+(.setContentPane frame panel)" "(def frame (JFrame. \"Hello Frame\"))
+(.setSize frame 200 200)
+(.setVisible frame true)" "(.revalidate button)" "(import 'javax.swing.JButton)
+(def button (JButton. \"Click Me!\"))
+(.add panel button)" "(import 'javax.swing.JPanel)
+(def panel (JPanel.))
+(.setContentPane frame panel)" "(def frame (JFrame. \"Hello Frame\"))
+(.setSize frame 200 200)
+(.setVisible frame true)" "(import 'javax.swing.JFrame)" "(s/stop scr)" "(s/put-string scr 10 10 \"Hello, world!\")
+(s/put-string scr 10 11 \"Press any key to exit!\")
+(s/redraw scr)" "(s/start scr)" "(def scr (s/get-screen :auto {:cols 10 :rows 24 :font \"Serif\"}))" "(s/stop scr)" "(s/put-string scr 10 10 \"Hello, world!\")
+(s/put-string scr 10 11 \"Press any key to exit!\")
+(s/redraw scr)" "(s/start scr)" "(def scr (s/get-screen :auto {:cols 10 :rows 24}))" "(s/stop scr)" "(s/start scr)" "(def scr (s/get-screen :auto {:cols 20}))" "(s/stop scr)" "(s/start scr)" "(s/put-string scr 10 10 \"Hello, world!\")
+(s/put-string scr 10 11 \"Press any key to exit!\")
+(s/redraw scr)" "(def scr (s/get-screen :auto {:cols 20}))" "(s/stop scr)" "(s/put-string scr 10 10 \"Hello, world!\")
+(s/put-string scr 10 11 \"Press any key to exit!\")
+(s/redraw scr)" "(get-available-fonts)" "(use 'lanterna.terminal)" "(use lanterna.terminal)" "(require lanterna.terminal)" "(get-available-fonts)" "(s/get-available-fonts)" "(s/redraw scr)" "(draw-menu-item game scr (map->MenuItem {:x 0 :y 0 :text \"bruh\"}))" "(s/redraw scr)" "(s/clear scr)" "(s/redraw scr)" "(s/get-size scr)" "(s/redraw scr)" "(draw-menu-item game scr (map->MenuItem {:x 0 :y 0 :text \"bruh\"}))" "(s/clear scr)" "(s/redraw scr)" "(s/draw scr)" "(s/put-string scr 10 10 \"hi\")" "(s/put-string scr 0 0 \"hi\")" "(s/putstring scr 0 0 \"hi\")" "(draw-menu-item game scr (map->MenuItem {:x 0 :y 0 :text \"bruh\"}))" "(def game (init-game))" "(def scr (init-display))" "(draw-menu-item game scr (map->MenuItem {:x 0 :y 0 :text \"bruh\"}))" "(def game (init-game))" "(def scr (init-display))" "(draw-menu-item game scr (map->MenuItem {:x 0 :y 0 :text \"bruh\"}))" "(def game (init-game))" "(def scr (init-display))" "(import com.googlecode.lanterna.gui.component.ActionListBox)" "(import com.googlecode.lanterna.gui)" "(import com.googlecode.lanterna)" "(s/stop scr)" "(import com.googlecode.lanterna.gui.Action)" "(Action.)" "(.addComponent win (Button. \"Dis butt\" (let [doAction #(println \"bruh\")] (Action.))))" "(.addComponent win (Button. \"Dis butt\" (Action.)))" "(.addComponent win (Button. \"Dis butt\" (Action.) #(println \"bruh\")))" "(.addComponent win (Button. \"Dis butt\" (Action. #(println \"bruh\"))))" "(import com.googlecode.lanterna.gui.Action)" "(.addComponent win (Button. \"Dis butt\" (Action. #(println \"bruh\"))))" "(.showWindow gscr win)" "(s/start  scr)" "(.showWindow gscr win)" "(s/stop  scr)" "(.showWindow gscr win)" "(.addComponent win (Button. \"Dis butt\"))" "(.addComponent (Button. \"Dis butt\") win)" "(map :name  (filter :exception-types (:members (r/reflect win))))" "(map :name  (filter :exception-types (:members (r/reflect scr))))" "(map :name  (filter :exception-types (:members (r/reflect gscr))))" "(filter :exception-types (:members (r/reflect gscr)))" "(:members (r/reflect gscr))" "(r/reflect gscr)" "(require '[clojure.reflect :as r])" "(.Pos gscr)" "(.Position gscr)" "(.showWindow gscr win (.-CENTER (.Position gscr)))" "gscr" "(.showWindow gscr win (.-CENTER (.-Position gscr)))" "(.showWindow gscr win (.Center (.Position gscr)))" "(.showWindow gscr win)" "(.showWindow gscr)" "(s/start (.getScreen gscr))" "(.setTitle gscr \"testing\")" "(s/start scr)" "(def gscr (GUIScreen. scr))" "(def scr (s/get-screen))" "(def gscr (GUIScreen.))" "(import com.googlecode.lanterna.gui.GUIScreen)" "(s/stop scr)" "(.showWindow scr win)" "(def scr (s/get-screen))
+
+(s/start scr)" "(.showWindow win)" "(def win (Window. \"hi\"))" "(def win (Window.))" "(import com.googlecode.lanterna.gui.Window)" "(s/stop scr)" "(def p (Panel.))" "(import com.googlecode.lanterna.gui.component.Panel)" "(import com.googlecode.lanterna.gui.*)" "(import com.googlecode.lanterna.gui)" "(Button. \"hello\")" "(. addComponent scr  (Button. \"hello\"))" "(def scr (s/get-screen))
+
+(s/start scr)" "(import com.googlecode.lanterna.gui.component.Button)" "(Button. \"hello\")" "(.addComponent (Button. \"hello\"))" "(.addComponent (.newInstance Button \"hello\"))" "(import com.googlecode.lanterna.gui.component.Button)" "(.addComponent (.newInstance Button \"hello\"))" "(.addComponent (.new Button \"hello\"))" "(import com.googlecode.lanterna.gui.component.Button)" "(-main)" "(s/get-screen)" "(s/get-size)" "(-main)" "(pst)" "(s/stop scr)" "(user-input scr)" "(def scr (s/get-screen))
+
+(s/start scr)" "(user-input scr)" "(def scr (s/get-screen))
+
+(s/start scr)" "(user-input scr)" "(def scr (s/get-screen))
+
+(s/start scr)" "(when 2 (println 3))" "(when nil (println 3))" "(when nil println 3)" "(def scr (s/get-screen))
+
+(s/start scr)" "(s/put-sheet scr 5 5 [\"foo\" \"bar\" \"hello\"])
+(s/put-sheet scr 5 9 [[\\f \\o \\o] [\"b\" \"a\" \"r\"] \"hello\"])
+(let [r [\\r {:bg :red :fg :white}]
+      g [\\g {:bg :green :fg :black}]
+      b [\\b {:bg :blue :fg :white}]]
+  (s/put-sheet scr 5 13 [[r r r] [g g g] [b b b]]))
+
+(s/redraw scr)
+(s/stop scr) " "(s/put-sheet scr 5 5 [\"foo\" \"bar\" \"hello\"])
+(s/put-sheet scr 5 9 [[\\f \\o \\o] [\"b\" \"a\" \"r\"] \"hello\"])
+(let [r [\\r {:bg :red :fg :white}]
+      g [\\g {:bg :green :fg :black}]
+      b [\\b {:bg :blue :fg :white}]]
+  (s/put-sheet scr 5 13 [[r r r] [g g g] [b b b]]))" "(def scr (s/get-screen))
+
+(s/start scr)" "(s/put-sheet scr 5 5 [\"foo\" \"bar\" \"hello\"])
+(s/put-sheet scr 5 9 [[\\f \\o \\o] [\"b\" \"a\" \"r\"] \"hello\"])
+(let [r [\\r {:bg :red :fg :white}]
+      g [\\g {:bg :green :fg :black}]
+      b [\\b {:bg :blue :fg :white}]]
+  (s/put-sheet scr 5 13 [[r r r] [g g g] [b b b]]))
+
+(s/redraw scr)
+(s/stop scr) " "(put-sheet scr 5 5 [\"foo\" \"bar\" \"hello\"])
+(put-sheetscr 5 9 [[\\f \\o \\o] [\"b\" \"a\" \"r\"] \"hello\"])
+(let [r [\\r {:bg :red :fg :white}]
+      g [\\g {:bg :green :fg :black}]
+      b [\\b {:bg :blue :fg :white}]]
+  (s/put-sheet scr 5 13 [[r r r] [g g g] [b b b]]))
+
+(redraw scr)
+(stop scr) " "(put-sheet scr 5 5 [\"foo\" \"bar\" \"hello\"])
+(put-sheetscr 5 9 [[\\f \\o \\o] [\"b\" \"a\" \"r\"] \"hello\"])
+(let [r [\\r {:bg :red :fg :white}]
+      g [\\g {:bg :green :fg :black}]
+      b [\\b {:bg :blue :fg :white}]]
+  (put-sheet scr 5 13 [[r r r] [g g g] [b b b]]))
+
+(redraw scr)
+(stop scr) " "(let [s scr] (put-sheet s 5 5 [\"foo\" \"bar\" \"hello\"])
+  (put-sheet s 5 9 [[\\f \\o \\o] [\"b\" \"a\" \"r\"] \"hello\"])
+  (let [r [\\r {:bg :red :fg :white}]
+        g [\\g {:bg :green :fg :black}]
+        b [\\b {:bg :blue :fg :white}]]
+    (put-sheet s 5 13 [[r r r] [g g g] [b b b]]))
+
+  (redraw s)
+  (stop s) )" "(get-input scr)" "(def scr (s/get-screen))
+
+(s/start scr)" "(s/stop scr)" "(get-input scr)" "(def scr (s/get-screen))
+
+(s/start scr)" "(s/stop scr)" "(get-input scr)" "(get-input s)" "(def scr (s/get-screen))
+
+(s/start scr)" "(get-input s)" "(get-input)" "(vector 1)")
