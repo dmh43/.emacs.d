@@ -1,7 +1,0 @@
-def my_rand():
-    mine = []
-    for x in xrange(10):
-        mine.append(0)
-print 4
-
-os.path.ex

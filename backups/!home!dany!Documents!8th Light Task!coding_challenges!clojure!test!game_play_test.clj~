@@ -1,4 +1,0 @@
-(ns game.game-play-test
-  (:require [game.game-play :refer :all]
-            [clojure.test :refer :all]))
-

@@ -1,5 +1,0 @@
-matplotlib
-sympy
-pdb
-pyyaml
--e git+https://bitbucket.org/cdelker/schemdraw.git#egg=SchemeDraw
